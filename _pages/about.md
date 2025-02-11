@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 I am a Ph.D. candidate in Computer Engineering at Iowa State University <a href="https://www.ece.iastate.edu/bgulmez"><b>MAIS Lab</b></a> under Dr.Gulmezoglu. 
-I completed his B.S. in Information and Communication Engineering from Yeungnam University, South Korea. 
 Before joining Iowa State, I worked as an Assistant Manager at the ICT Infrastructure Strategy and Planning Team at the National Information Society Agency (<a href="https://eng.nia.or.kr/site/nia_eng/main.do"><b>NIA</b></a>) in South Korea. 
 My research interest is in microarchitectural side-channel attacks and mitigations utilizing deep learning algorithms. 
 

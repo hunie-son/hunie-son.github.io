@@ -22,11 +22,11 @@ News
 
 **[Feb. 2025]** Our paper “SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts” got accepted at ASPLOS ’25. AMD acknowledged our attack and has published a <a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>security bulletin</b></a> for our attack.<br/>
 
-**[Nov. 2024]** Our poster (<a href="/files/MSW_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>), "DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection,” got the best poster award at the Midwest Security Workshop 2024 organized at Purdue University.<br/>
+**[Nov. 2024]** Our poster, "DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection,” got the best poster award at the Midwest Security Workshop 2024 organized at Purdue University. (<a href="/files/MSW_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>)<br/>
 
 **[Oct. 2024]** I received Sidebottom Scholarship for the academic year 2024-2025.<br/>
 
-**[Sep. 2024]** I will participate in the CAE-R Symposium in St Louis and present a research poster.<br/>
+**[Sep. 2024]** I will participate in the CAE-R Symposium in St Louis and present a research poster. (<a href="/files/DETool_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>)<br/>
 
 **[Aug. 2024]** I will give an invited talk on "Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems” at Kyungpook National University in South Korea.<br/>
 

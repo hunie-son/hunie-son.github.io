@@ -159,6 +159,8 @@ analytics:
     tracking_id          : "G-YM41J69KBL"
     anonymize_ip         : # true, false (default)
 
+
+
 # Reading Files
 include:
   - .htaccess
@@ -358,3 +360,13 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YM41J69KBL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YM41J69KBL');
+</script>

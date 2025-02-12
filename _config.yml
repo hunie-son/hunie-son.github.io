@@ -153,11 +153,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag"         # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-YM41J69KBL"
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true #, false (default)
 
 
 

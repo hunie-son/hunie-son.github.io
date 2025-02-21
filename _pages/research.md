@@ -14,6 +14,10 @@ Microarchitectural Side-channel Attacks & Defense Utilizing AI Algorithms
 * Analyzing GPU Profiler-based Attacks on AR/VR devices (Meta Quest, Microsoft HoloLens).
 * Defending Website Fingerprinting Attacks by Utilizing Generative AI Algorithms.
 
+<div align="center">
+<img src="../images/DefWeb/Figure_scenario_new.png" width="300" height="200" alt="Threat model for the attacker and the defense mechanisms." style="display: block; margin: 0 auto;">
+</div>
+
 Machine Learning Security
 ------
 * Studying Intrinsic Dimension Estimation for Enhanced Machine Learning Security.

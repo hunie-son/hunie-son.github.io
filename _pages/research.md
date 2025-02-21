@@ -20,7 +20,7 @@ Microarchitectural Side-channel Attacks & Defense Utilizing AI Algorithms
 * Defending Website Fingerprinting Attacks by Utilizing Generative AI Algorithms.
 <div align="center">
   <img src="../images/DefWeb/Figure_scenario_new.png" width="300" height="200" alt="Threat model for the attacker and the defense mechanisms." style="display: inline-block; margin: 0 10px;">
-  <img src="../images/DefWeb/NoiseTemplateAdded_v2.png" width="300" height="200" alt="Noise added Website Fingerprint dataset." style="display: inline-block; margin: 0 10px;">
+  <img src="../images/DefWeb/NoiseTemplateAdded_v2.png" width="400" height="300" alt="Noise added Website Fingerprint dataset." style="display: inline-block; margin: 0 10px;">
 </div>
 
 Machine Learning Security

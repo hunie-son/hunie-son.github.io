@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Microarchitectural Side-channel Attacks & Defense Utilizing AI Algorithms
+Microarchitectural Side-channel Attacks & Defense Utilizing AI
 ------
 * Defending Side-channel Attacks by Utilizing Generative AI Algorithms.
 <div align="center">

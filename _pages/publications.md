@@ -13,7 +13,7 @@ Selected Publications
 ***SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts***<br/>
 **Seonghun Son**, Daniel Moghimi, and Berk Gulmezoglu<br/>
 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2025 <br/>
-<a href="https://arxiv.org/pdf/2502.05429" style="text-decoration: none;"><b>Paper</b></a>, <a href="https://github.com/hunie-son/SMaCk" style="text-decoration: none;"><b>Artifact</b></a>
+<a href="https://arxiv.org/pdf/2502.05429" style="text-decoration: none;"><b>Paper</b></a>, <a href="https://github.com/hunie-son/SMaCk" style="text-decoration: none;"><b>Artifact</b></a>, 
 <a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD Security Bulletin</b></a>
 
 ***DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection***<br/>

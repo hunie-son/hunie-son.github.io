@@ -11,12 +11,16 @@ Under construction.
 
 Selected Publications
 ------
-**2025** <br/>
+DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection<br/>
+**Seonghun Son**, Debopriya Roy Dipta and Berk Gulmezoglu.<br/>
+In Annual Computer Security Applications Conference (ACSAC), 2023
+
+<!--**2025** <br/>
 
 **2023** <br/>
 
 **2017** <br/>
-
+-->
 Workshops and Posters
 ------
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)

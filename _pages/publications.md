@@ -12,11 +12,16 @@ Under construction.
 Selected Publications
 ------
 <a href="https://arxiv.org/pdf/2502.05429" style="text-decoration: none;"><b>SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts</b></a><br/>
-**Seonghun Son**, Daniel Moghimi, Berk Gulmezoglu.<br/>
+**Seonghun Son**, Daniel Moghimi, Berk Gulmezoglu<br/>
 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2025
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3627106.3627191" style="text-decoration: none;"><b>DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection</b></a><br/>
-**Seonghun Son**, Debopriya Roy Dipta, Berk Gulmezoglu.<br/>
+**Seonghun Son**, Debopriya Roy Dipta, Berk Gulmezoglu<br/>
+In Annual Computer Security Applications Conference (ACSAC), 2023
+
+<a href="
+https://saiconference.com/Downloads/FTC2017/Proceedings/10_Paper_452-CR-MEGA_Mutually_Exclusive_Guaranteed_Access.pdf" style="text-decoration: none;"><b>CR-MEGA: Mutually Exclusive Guaranteed Access Control for Cognitive Radio Networks</b></a><br/>
+Muhammad Shafiq, **Seonghun Son**, Jin-Ghoo Choi, Heejung Yu<br/>
 In Annual Computer Security Applications Conference (ACSAC), 2023
 
 Workshops and Posters

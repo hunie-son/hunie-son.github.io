@@ -9,7 +9,7 @@ redirect_from:
 
 Under construction.
 
-Microarchitectural Side-channel Attacks & Defense utilizing AI
+Microarchitectural Side-channel Attacks & Defense Utilizing AI Algorithms
 ------
 
 Machine Learning Security

@@ -12,7 +12,7 @@ Under construction.
 Microarchitectural Side-channel Attacks & Defense Utilizing AI Algorithms
 ------
 * CPU Cache-based Attacks on Intel and AMD devices.
-* Exploring Cryptography Vulnerabilities.
+* Exploring Cryptography (RSA Key Recovery, OpenSSL SRP Single Trace Attack) Vulnerabilities.
 * GPU Profiler-based Attacks on AR/VR devices.
 * Defending Website Fingerprinting Attacks by Utilizing Generative AI Algorithms.
 

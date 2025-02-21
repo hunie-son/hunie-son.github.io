@@ -39,14 +39,6 @@ assignments, head TA.-->
 <!--* Created slides for effectively explaining lab materials.
 * Conducted three lab sessions among four lab sessions and graded homework and lab assignments.-->
 
-Service
-------
-**[May. 2024]** Subreviwer, *29th European Symposium on Research in Computer Security* (**ESORICS**)
-
-**[May. 2023, Aug. 2023]** Subreviwer, *28th European Symposium on Research in Computer Security* (**ESORICS**)
-
-**[May. 2013 - May. 2015]** Military Service, *Republic of Korea Air Force* (**ROKAF**)
-
 Volunteering
 ------
 **[Oct. 2024]** Youth Cyber Summit, *Iowa Cyber Hub*
@@ -74,6 +66,8 @@ Volunteering
 * Educational volunteering in rural areas of South Korea.
 * Teaching Science and IT classes.
 * Korean Foundation for the Advancement of Science & Creativity.
+
+**[May. 2013 - May. 2015]** Military Service, *Republic of Korea Air Force* (**ROKAF**)
 
 **[Feb. 2012 - Jun. 2012]** Korean Student Ambassador, *Camp Walker, United States armed forces base in Daegu (South Korea)*
 * Korean American Friendship Circle, Team 19. (<a href="https://www.facebook.com/Korean-American-Friendship-Circle-130490893669558/" style="text-decoration: none;"><b>URL</b></a>)

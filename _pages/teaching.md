@@ -36,7 +36,48 @@ assignments, head TA.
 * Created slides for effectively explaining lab materials.
 * Conducted three lab sessions among four lab sessions and graded homework and lab assignments.
 
+Service
+------
+**[May. 2024] Subreviwer, 29th European Symposium on Research in Computer Security (ESORICS)**
 
+**[May. 2023, Aug. 2023] Subreviwer, 28th European Symposium on Research in Computer Security (ESORICS)**
+
+**[May. 2013, May. 2015] Military Service, Republic of Korea Air Force (ROKAF)**
+
+Volunteering
+------
+**[Oct. 2024] Youth Cyber Summit, Iowa Cyber Hub**
+* showcasing cybersecurity knowledge led by Dr.Doug Jacobson.
+
+**[Jun. 2024] 4H Outreach, Purdue University**
+* Computer science outreach program (K-12) led by Jessica Brewer and Dr. Berkay Celik.
+
+**[May. 2021 - May. 2024] <a href="https://cymath.iastate.edu/about-us-3/" style="text-decoration: none;"><b>CyMath</b></a>, Iowa State University**
+* Mathematics outreach program (K-12) led by Dr. Namrata Vaswani.
+* Sep. 2023 - May 2024: CyMath 3.0 (Sawyer Elementary School, Ames, Iowa)
+* Sep. 2022 - May 2023: CyMath 2.0 (Des Moines Public School, Des Moines, Iowa)
+* May. 2021 - May 2022: CyMath 1.0 (Moulton Elementary School, Des Moines, Iowa )
+
+**[Jul. 2017 – Aug. 2017] World Friend ICT Volunteer, Can Tho University Technology, Vietnam (Team Leader)**
+* Teaching Programming Languages (C/C++) and Korean Culture.
+* National Information Society Agency & Korea International Cooperation Agency.
+
+**[Jan. 2017] Educational Service, Myeongdeok Elementary School (Team Leader)**
+* Teaching Programming Languages (C/C++) and Korean Culture.
+* National Information Society Agency & Korea International Cooperation Agency.
+
+**[Jul. 2016] Educational Service, Chengdo Area, South Korea**
+* Psychological counseling program for students(K-12) in Chengo Area, South Korea.
+* <a href="http://www.ksmnews.co.kr/default/index_view_page.php?idx=146832&part_idx=299#09HT" style="text-decoration: none;"><b>News article </b></a>
+
+**[Jan. 2016] Educational Service, Hamchang Middle School, South Korea**
+* Educational volunteering in rural areas of South Korea.
+* Teaching Science and IT classes.
+* Korean Foundation for the Advancement of Science & Creativity.
+
+**[Feb. 2012 - Jun. 2012] Korean Student Ambassador**
+* Korean American Friendship Circle, Team 19. (<a href="https://www.facebook.com/Korean-American-Friendship-Circle-130490893669558/" style="text-decoration: none;"><b>URL</b></a>)
+* 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012 

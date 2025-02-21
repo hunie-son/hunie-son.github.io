@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-[Spring 2025] EE 2850, Problem Solving Methods and Tools for Electrical Engineering (ISU)
+Iowa State University Courses 
 ------
+**[Spring 2025] EE 2850, Problem Solving Methods and Tools for Electrical Engineering (ISU)**
 * Served as a guest lecturer for a class with approximately 70 students.
 * Teaching C programming languages
 
-[Fall 2024] CPRE 3810 Computer Organization and Assembly Level Programming (ISU)
-------
+**[Fall 2024] CPRE 3810 Computer Organization and Assembly Level Programming (ISU)**
 * Served as a teaching assistant for the entire semester class with approximately 120 students.
 * Created new homework associated with basic microarchitecture knowledge with
 assembly programming questions, grading, and conducting office hours to explain the basics.

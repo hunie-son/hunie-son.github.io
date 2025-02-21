@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Under construction.
-
 Microarchitectural Side-channel Attacks & Defense Utilizing AI Algorithms
 ------
 * Investigating CPU Cache-based Attacks on Intel and AMD devices.

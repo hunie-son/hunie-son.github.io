@@ -75,7 +75,7 @@ Volunteering
 * Teaching Science and IT classes.
 * Korean Foundation for the Advancement of Science & Creativity.
 
-**[Feb. 2012 - Jun. 2012]** Korean Student Ambassador, Camp Walker, United States armed forces base in Daegu (South Korea)
+**[Feb. 2012 - Jun. 2012]** Korean Student Ambassador, *Camp Walker, United States armed forces base in Daegu (South Korea)*
 * Korean American Friendship Circle, Team 19. (<a href="https://www.facebook.com/Korean-American-Friendship-Circle-130490893669558/" style="text-decoration: none;"><b>URL</b></a>)
 
   

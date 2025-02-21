@@ -12,25 +12,30 @@ Iowa State University Courses
 **[Spring 2025] Guest Lecturer**, EE 2850 Problem Solving Methods and Tools for Electrical Engineering
 
 **[Fall 2024] Teaching Assistant**, CPRE 3810 Computer Organization and Assembly Level Programming
+
 <!--* Served as a teaching assistant for the entire semester class with approximately 120 students.
 * Created new homework associated with basic microarchitecture knowledge with
 assembly programming questions, grading, and conducting office hours to explain the basics.-->
 
 **[Fall 2023] Teaching Assistant**, CPRE 3810 Computer Organization and Assembly Level Programming
+
 <!--* Served as a teaching assistant for the entire semester class with approximately 120 students.
 * Graded homework associated with basic microarchitecture knowledge with assembly programming questions.
 * Conducted office hours to explain basic knowledge.
 * Served as a guest lecturer for one class.-->
 
 **[Spring 2022] Teaching Assistant**, CPRE 4190 Software Tools for Large-Scale Data Analysis
+
 <!--* Created slides for effectively explaining lab materials.
 * Conducted two lab sessions among four lab sessions and graded homeworks and lab
 assignments, head TA.-->
 
 **[Fall 2021] Teaching Assistant**, SE 4210 Software Analysis and Verification for Safety and Security
+
 <!--* Graded homework and explained basic concepts during office hours.-->
 
 **[Spring 2021] Teaching Assistant**, CPRE 4190 Software Tools for Large-Scale Data Analysis
+
 <!--* Created slides for effectively explaining lab materials.
 * Conducted three lab sessions among four lab sessions and graded homework and lab assignments.-->
 

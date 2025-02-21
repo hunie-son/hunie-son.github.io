@@ -23,7 +23,7 @@ In Annual Computer Security Applications Conference (ACSAC), 2023 <br/>
 
 ***CR-MEGA: Mutually Exclusive Guaranteed Access Control for Cognitive Radio Networks***<br/>
 Muhammad Shafiq, **Seonghun Son**, Jin-Ghoo Choi, and Heejung Yu<br/>
-Proceedings of the IEEE Future Technologies Conference (FTC), 2017
+Proceedings of the IEEE Future Technologies Conference (FTC), 2017 <br/>
 <a href="
 https://saiconference.com/Downloads/FTC2017/Proceedings/10_Paper_452-CR-MEGA_Mutually_Exclusive_Guaranteed_Access.pdf" style="text-decoration: none;"><b>URL</b></a>
 

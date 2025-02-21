@@ -11,9 +11,16 @@ Under construction.
 
 Microarchitectural Side-channel Attacks & Defense Utilizing AI Algorithms
 ------
+* CPU Cache-based Attacks on Intel and AMD devices.
+* Exploring Cryptography Vulnerabilities.
+* GPU Profiler-based Attacks on AR/VR devices.
+* Defending Website Fingerprinting Attacks by Utilizing Generative AI Algorithms.
 
 Machine Learning Security
 ------
+* Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security.
+
+
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012 

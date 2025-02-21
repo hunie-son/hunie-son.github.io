@@ -9,10 +9,10 @@ redirect_from:
 
 Under construction.
 
-Microarchitectural Side-channel Attacks & Defense utilizing AI
+A
 ------
 
-Machine Learning Security
+B
 ------
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014

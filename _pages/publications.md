@@ -11,18 +11,21 @@ Under construction.
 
 Selected Publications
 ------
-<a href="https://arxiv.org/pdf/2502.05429" style="text-decoration: none;"><b>SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts</b></a><br/>
+***SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts***
 **Seonghun Son**, Daniel Moghimi, and Berk Gulmezoglu<br/>
-ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2025
+ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2025 <br/>
+<a href="https://arxiv.org/pdf/2502.05429" style="text-decoration: none;"><b>URL</b></a>, <a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD Security bulletin</b></a>
 
-<a href="https://dl.acm.org/doi/pdf/10.1145/3627106.3627191" style="text-decoration: none;"><b>DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection</b></a><br/>
+***DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection***
 **Seonghun Son**, Debopriya Roy Dipta, and Berk Gulmezoglu<br/>
-In Annual Computer Security Applications Conference (ACSAC), 2023
+In Annual Computer Security Applications Conference (ACSAC), 2023 <br/>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3627106.3627191" style="text-decoration: none;"><b>URL</b></a>
 
-<a href="
-https://saiconference.com/Downloads/FTC2017/Proceedings/10_Paper_452-CR-MEGA_Mutually_Exclusive_Guaranteed_Access.pdf" style="text-decoration: none;"><b>CR-MEGA: Mutually Exclusive Guaranteed Access Control for Cognitive Radio Networks</b></a><br/>
+***CR-MEGA: Mutually Exclusive Guaranteed Access Control for Cognitive Radio Networks***
 Muhammad Shafiq, **Seonghun Son**, Jin-Ghoo Choi, and Heejung Yu<br/>
 Proceedings of the IEEE Future Technologies Conference (FTC), 2017
+<a href="
+https://saiconference.com/Downloads/FTC2017/Proceedings/10_Paper_452-CR-MEGA_Mutually_Exclusive_Guaranteed_Access.pdf" style="text-decoration: none;"><b>URL</b></a>
 
 Workshops and Posters
 ------

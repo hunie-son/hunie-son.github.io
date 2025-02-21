@@ -9,10 +9,10 @@ redirect_from:
 
 Under construction.
 
-A
+Conference Proceedings
 ------
 
-B
+Workshops and Posters
 ------
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014

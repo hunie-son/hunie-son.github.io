@@ -11,8 +11,8 @@ Microarchitectural Side-channel Attacks & Defense Utilizing AI Algorithms
 ------
 * Investigating CPU Cache-based Attacks on Intel and AMD devices.
 <div align="center">
-  <img src="../images/SMaCk/cache_time_smack_mastik_cascadelake_all.png" width="200" height="400" alt="CPU cycle time difference for various Probe strategies and Mastik method on Intel Cascade Lake microarchitecture." style="display: inline-block; margin: 0 10px;">
-  <img src="../images/SMaCk/Prefetch_Spectre.png" width="400" height="200" alt="Spectre Attack with SMC behavior" style="display: inline-block; margin: 0 10px;">
+  <img src="../images/SMaCk/cache_time_smack_mastik_cascadelake_all.png" width="250" height="450" alt="CPU cycle time difference for various Probe strategies and Mastik method on Intel Cascade Lake microarchitecture." style="display: inline-block; margin: 0 10px;">
+  <img src="../images/SMaCk/Prefetch_Spectre.png" width="350" height="150" alt="Spectre Attack with SMC behavior" style="display: inline-block; margin: 0 10px;">
 </div>
 
 * Exploring Cryptography (RSA Key, OpenSSL SRP, Homomorphic Encryption) Vulnerabilities.

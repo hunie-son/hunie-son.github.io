@@ -16,7 +16,7 @@ Microarchitectural Side-channel Attacks & Defense Utilizing AI Algorithms
     <figcaption>CPU cycle time difference for various Probe strategies and Mastik method on Intel Cascade Lake.</figcaption>
   </figure>
   <figure style="display: inline-block; margin: 0 10px;">
-    <img src="../images/SMaCk/Prefetch_Spectre.png" width="400" height="300" alt="Spectre Attack with SMC behavior">
+    <img src="../images/SMaCk/Prefetch_Spectre.png" width="300" height="200" alt="Spectre Attack with SMC behavior">
     <figcaption>Spectre Attack with SMC behavior.</figcaption>
   </figure>
 </div>

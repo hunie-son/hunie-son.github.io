@@ -38,11 +38,11 @@ assignments, head TA.
 
 Service
 ------
-**[May. 2024] Subreviwer, 29th European Symposium on Research in Computer Security (ESORICS)**
+**[May. 2024] Subreviwer**, 29th European Symposium on Research in Computer Security (**ESORICS**)
 
-**[May. 2023, Aug. 2023] Subreviwer, 28th European Symposium on Research in Computer Security (ESORICS)**
+**[May. 2023, Aug. 2023] Subreviwer**, 28th European Symposium on Research in Computer Security (**ESORICS**)
 
-**[May. 2013 - May. 2015] Military Service, Republic of Korea Air Force (ROKAF)**
+**[May. 2013 - May. 2015] Military Service**, Republic of Korea Air Force (**ROKAF**)
 
 Volunteering
 ------
@@ -77,7 +77,8 @@ Volunteering
 
 **[Feb. 2012 - Jun. 2012] Korean Student Ambassador**
 * Korean American Friendship Circle, Team 19. (<a href="https://www.facebook.com/Korean-American-Friendship-Circle-130490893669558/" style="text-decoration: none;"><b>URL</b></a>)
-* 
+
+  
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012 

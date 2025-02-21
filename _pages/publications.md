@@ -36,6 +36,10 @@ The Midwest Security Workshop at Purdue University, 2024 <br/>
 ***Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security*** (<a href="/files/DETool_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>)<br/>
 National Cybersecurity Education Colloquium, 2024 <br/> 
 
+***Vehicle Crash Avoidance based on Rear Lamp Detection Systems*** (<a href="
+http://www.spcom.ecei.tohoku.ac.jp/JCK-WS2016/papers/16-8.pdf" style="text-decoration: none;"><b>Paper</b></a>)<br/>
+International Workshop on Emerging ICT, 2016 <br/> 
+
 
 
 <!-- 

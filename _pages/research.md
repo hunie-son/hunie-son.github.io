@@ -17,7 +17,7 @@ Microarchitectural Side-channel Attacks & Defense Utilizing AI Algorithms
   </figure>
   <figure style="display: inline-block; margin: 0 10px;">
     <img src="../images/SMaCk/Prefetch_Spectre.png" width="200" height="100" alt="Spectre Attack with SMC behavior">
-    <figcaption>Spectre Attack with SMC behavior.</figcaption>
+    <figcaption>Spectre Attack with SMC Primitives</figcaption>
   </figure>
 </div>
 

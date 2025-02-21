@@ -14,7 +14,8 @@ Selected Publications
 ***SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts***<br/>
 **Seonghun Son**, Daniel Moghimi, and Berk Gulmezoglu<br/>
 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2025 <br/>
-<a href="https://arxiv.org/pdf/2502.05429" style="text-decoration: none;"><b>URL</b></a>, <a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD Security bulletin</b></a>
+<a href="https://arxiv.org/pdf/2502.05429" style="text-decoration: none;"><b>URL</b></a> <br/> 
+<span style="color: red;"><a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD Security bulletin</b></a></span>
 
 ***DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection***<br/>
 **Seonghun Son**, Debopriya Roy Dipta, and Berk Gulmezoglu<br/>
@@ -29,6 +30,14 @@ https://saiconference.com/Downloads/FTC2017/Proceedings/10_Paper_452-CR-MEGA_Mut
 
 Workshops and Posters
 ------
+***DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection*** (<a href="/files/MSW_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>)<br/>
+The Midwest Security Workshop at Purdue University, 2024 <br/> 
+<span style="color: red;">Best Poster Award</span>
+
+***Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security*** (<a href="/files/DETool_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>)<br/>
+National Cybersecurity Education Colloquium, 2024 <br/> 
+
+
 
 <!-- 
 

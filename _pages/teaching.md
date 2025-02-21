@@ -9,32 +9,30 @@ redirect_from:
 
 Iowa State University Courses 
 ------
-**[Spring 2025] EE 2850, Problem Solving Methods and Tools for Electrical Engineering**
-* Served as a guest lecturer for a class with approximately 70 students.
-* Teaching C programming languages
+**[Spring 2025] Guest Lecturer**, EE 2850 Problem Solving Methods and Tools for Electrical Engineering
 
-**[Fall 2024] CPRE 3810 Computer Organization and Assembly Level Programming**
-* Served as a teaching assistant for the entire semester class with approximately 120 students.
+**[Fall 2024] Teaching Assistant**, CPRE 3810 Computer Organization and Assembly Level Programming
+<!--* Served as a teaching assistant for the entire semester class with approximately 120 students.
 * Created new homework associated with basic microarchitecture knowledge with
-assembly programming questions, grading, and conducting office hours to explain the basics.
+assembly programming questions, grading, and conducting office hours to explain the basics.-->
 
-**[Fall 2023] CPRE 3810 Computer Organization and Assembly Level Programming**
-* Served as a teaching assistant for the entire semester class with approximately 120 students.
+**[Fall 2023] Teaching Assistant**, CPRE 3810 Computer Organization and Assembly Level Programming
+<!--* Served as a teaching assistant for the entire semester class with approximately 120 students.
 * Graded homework associated with basic microarchitecture knowledge with assembly programming questions.
 * Conducted office hours to explain basic knowledge.
-* Served as a guest lecturer for one class.
+* Served as a guest lecturer for one class.-->
 
-**[Spring 2022] CPRE 4190 Software Tools for Large-Scale Data Analysis**
-* Created slides for effectively explaining lab materials.
+**[Spring 2022] Teaching Assistant**, CPRE 4190 Software Tools for Large-Scale Data Analysis
+<!--* Created slides for effectively explaining lab materials.
 * Conducted two lab sessions among four lab sessions and graded homeworks and lab
-assignments, head TA.
+assignments, head TA.-->
 
-**[Fall 2021] SE 4210 Software Analysis and Verification for Safety and Security**
-* Graded homework and explained basic concepts during office hours.
+**[Fall 2021] Teaching Assistant**, SE 4210 Software Analysis and Verification for Safety and Security
+<!--* Graded homework and explained basic concepts during office hours.-->
 
-**[Spring 2021] CPRE 4190 Software Tools for Large-Scale Data Analysis**
-* Created slides for effectively explaining lab materials.
-* Conducted three lab sessions among four lab sessions and graded homework and lab assignments.
+**[Spring 2021] Teaching Assistant**, CPRE 4190 Software Tools for Large-Scale Data Analysis
+<!--* Created slides for effectively explaining lab materials.
+* Conducted three lab sessions among four lab sessions and graded homework and lab assignments.-->
 
 Service
 ------
@@ -46,31 +44,28 @@ Service
 
 Volunteering
 ------
-**[Oct. 2024] Youth Cyber Summit, Iowa Cyber Hub**
-* showcasing cybersecurity knowledge led by Dr.Doug Jacobson.
+**[Oct. 2024] Youth Cyber Summit**, Iowa Cyber Hub
 
-**[Jun. 2024] 4H Outreach, Purdue University**
-* Computer science outreach program (K-12) led by Jessica Brewer and Dr. Berkay Celik.
+**[Jun. 2024] 4H Outreach**, Purdue University
 
-**[May. 2021 - May. 2024] <a href="https://cymath.iastate.edu/about-us-3/" style="text-decoration: none;"><b>CyMath</b></a>, Iowa State University**
-* Mathematics outreach program (K-12) led by Dr. Namrata Vaswani.
+**[May. 2021 - May. 2024] <a href="https://cymath.iastate.edu/about-us-3/" style="text-decoration: none;"><b>CyMath</b></a>**, Iowa State University
 * Sep. 2023 - May 2024: CyMath 3.0 (Sawyer Elementary School, Ames, Iowa)
 * Sep. 2022 - May 2023: CyMath 2.0 (Des Moines Public School, Des Moines, Iowa)
 * May. 2021 - May 2022: CyMath 1.0 (Moulton Elementary School, Des Moines, Iowa )
 
-**[Jul. 2017 – Aug. 2017] World Friend ICT Volunteer, Can Tho University Technology, Vietnam (Team Leader)**
+**[Jul. 2017 – Aug. 2017] World Friend ICT Volunteer**, Can Tho University of Technology (Vietnam)
 * Teaching Programming Languages (C/C++) and Korean Culture.
 * National Information Society Agency & Korea International Cooperation Agency.
 
-**[Jan. 2017] Educational Service, Myeongdeok Elementary School (Team Leader)**
-* Teaching Programming Languages (C/C++) and Korean Culture.
-* National Information Society Agency & Korea International Cooperation Agency.
+**[Jan. 2017] Educational Service**, Myeongdeok Elementary School (South Korea)**
+* Teaching Science and Math classes.
+* Korean Student Aid Foundation.
 
-**[Jul. 2016] Educational Service, Chengdo Area, South Korea**
+**[Jul. 2016] Educational Service**, Chengdo Area (South Korea)
 * Psychological counseling program for students(K-12) in Chengo Area, South Korea.
 * <a href="http://www.ksmnews.co.kr/default/index_view_page.php?idx=146832&part_idx=299#09HT" style="text-decoration: none;"><b>News article </b></a>
 
-**[Jan. 2016] Educational Service, Hamchang Middle School, South Korea**
+**[Jan. 2016] Educational Service**, Hamchang Middle School (South Korea)
 * Educational volunteering in rural areas of South Korea.
 * Teaching Science and IT classes.
 * Korean Foundation for the Advancement of Science & Creativity.

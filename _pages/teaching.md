@@ -42,7 +42,7 @@ Service
 
 **[May. 2023, Aug. 2023] Subreviwer, 28th European Symposium on Research in Computer Security (ESORICS)**
 
-**[May. 2013, May. 2015] Military Service, Republic of Korea Air Force (ROKAF)**
+**[May. 2013 - May. 2015] Military Service, Republic of Korea Air Force (ROKAF)**
 
 Volunteering
 ------

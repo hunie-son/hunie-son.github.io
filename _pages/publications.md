@@ -11,7 +11,7 @@ Under construction.
 
 Selected Publications
 ------
-DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection<br/>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3627106.3627191" style="text-decoration: none;"><b>DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection</b></a><br/>
 **Seonghun Son**, Debopriya Roy Dipta and Berk Gulmezoglu.<br/>
 In Annual Computer Security Applications Conference (ACSAC), 2023
 

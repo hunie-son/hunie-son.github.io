@@ -16,7 +16,7 @@ Microarchitectural Side-channel Attacks & Defense Utilizing AI Algorithms
 
 Machine Learning Security
 ------
-* Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security.
+* Studying Intrinsic Dimension Estimation for Enhanced Machine Learning Security.
 
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)

@@ -32,11 +32,11 @@ News
 
 **[Oct. 2024]** I received Sidebottom Scholarship for the academic year 2024-2025.<br/>
 
-**[Sep. 2024]** I will participate in the CAE-R Symposium in St Louis and present a research poster.<br/>
+**[Sep. 2024]** I will present a research poster at the CAE-R Symposium in St Louis.<br/>
 
 **[Aug. 2024]** I will give an invited talk on "Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems” at Kyungpook National University in South Korea.<br/>
 
-**[May. 2024]** I join the  <a href="https://beerkay.github.io/" style="text-decoration: none;"><b>Dr.Berkay Celik's</b></a> <a href="https://pursec.cs.purdue.edu/" style="text-decoration: none;"><b>PurSec</b></a> lab as a research intern during the summer. <br/>
+**[May. 2024]** I will join the  <a href="https://beerkay.github.io/" style="text-decoration: none;"><b>Dr.Berkay Celik's</b></a> <a href="https://pursec.cs.purdue.edu/" style="text-decoration: none;"><b>PurSec</b></a> Lab as a research intern during the summer. <br/>
 
 **[Mar. 2024]** Our poster on the security of Machine Learning models, in collaboration with NSA, has been accepted to the CAE symposium. I present the poster in Kentucky.(<a href="/files/DETool_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>) <br/>
 

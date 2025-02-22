@@ -25,7 +25,7 @@ author:
   avatar           : "profile3.jpg"
   name             : "Seonghun Son"
   pronouns         : # example: "she/her"  
-  bio              : "ɪғ ʏᴏᴜ ᴅᴏ ᴡʜᴀᴛ ʏᴏᴜ ʟᴏᴠᴇ,<br/>ʏᴏᴜ'ʟʟ ɴᴇᴠᴇʀ ᴡᴏʀᴋ ᴀ ᴅᴀʏ ɪɴ ʏᴏᴜʀ ʟɪғᴇ."
+  bio              : "<small>ɪғ ʏᴏᴜ ᴅᴏ ᴡʜᴀᴛ ʏᴏᴜ ʟᴏᴠᴇ,<br/>ʏᴏᴜ'ʟʟ ɴᴇᴠᴇʀ ᴡᴏʀᴋ ᴀ ᴅᴀʏ ɪɴ ʏᴏᴜʀ ʟɪғᴇ.</small>"
   location         : "Ames, IA"
   #employer         : "Red Brick University"
   uri              : # URL

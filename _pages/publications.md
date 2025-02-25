@@ -33,7 +33,7 @@ Workshops and Posters
 The Midwest Security Workshop at Purdue University, 2024 <br/> 
 <span style="color: red;">**Best Poster Award**</span>
 
-***Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security*** (<a href="/files/DETool_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>)<br/>
+***Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security*** <br/>
 National Cybersecurity Education Colloquium, 2024 <br/> 
 
 ***Vehicle Crash Avoidance based on Rear Lamp Detection Systems*** (<a href="

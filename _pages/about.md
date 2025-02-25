@@ -38,6 +38,6 @@ News
 
 **[May. 2024]** I will join the  <a href="https://beerkay.github.io/" style="text-decoration: none;"><b>Dr.Berkay Celik's</b></a> <a href="https://pursec.cs.purdue.edu/" style="text-decoration: none;"><b>PurSec</b></a> Lab as a research intern during the summer. <br/>
 
-**[Mar. 2024]** Our poster on the security of Machine Learning models, in collaboration with NSA, has been accepted to the CAE symposium. I present the poster in Kentucky.<!--(<a href="/files/DETool_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>)--> <br/>
+**[Mar. 2024]** Our poster on the security of Machine Learning models, in collaboration with NSA, has been accepted to the CAE symposium. I present the poster in Kentucky.<br/>
 
 **[Dec. 2023]** Our paper, "DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection" is accepted at ACSAC 2023 <br/>

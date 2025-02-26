@@ -10,17 +10,17 @@ redirect_from:
 
 Talks
 ------
-**[Aug 2024]** Kyungpook National University, Daegu, South Korea, "Application of Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems,” 
+**[Aug 2024]** Kyungpook National University, Daegu, South Korea, *"Application of Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems,”* 
 
 Presentation
 ------
-**[Nov 2025]** Poster, 9th Midwest Security Workshop (MSW 9), Purdue University, West Lafayette, IN, USA, “DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection” 
+**[Nov 2025]** Poster, 9th Midwest Security Workshop (MSW 9), Purdue University, West Lafayette, IN, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”* 
 
-**[Oct 2025]** Poster, National Cybersecurity Education Colloquium (NCEC), St.Louis, MO, USA,  “DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection” 
+**[Oct 2025]** Poster, National Cybersecurity Education Colloquium (NCEC), St.Louis, MO, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”*
 
-**[Apr 2024]** Poster, CAE in Cybersecurity Community Symposium, Louisville, KY, USA, “Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security"
+**[Apr 2024]** Poster, CAE in Cybersecurity Community Symposium, Louisville, KY, USA, *“Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security"*
 
-**[Dec 2023]** Conference, Proceedings of the 39th Annual Computer Security Applications Conference (ACSAC), Austin, TX, USA, “DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection” 
+**[Dec 2023]** Conference, Proceedings of the 39th Annual Computer Security Applications Conference (ACSAC), Austin, TX, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”*
 
 
 

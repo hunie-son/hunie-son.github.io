@@ -19,6 +19,11 @@ Presentation
 
 **[Dec 2023]** Conference, Proceedings of the 39th Annual Computer Security Applications Conference (ACSAC), Austin, TX, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”*
 
+**[Jan 2017]** Workshop, International Exploration of Engineering Education and CDP, Hong Kong University of Science and Technology (HKUST), Hong Kong, *"Vehicle Crash Avoidance Systems based on Rear Lamp Detection"*
+<span style="color: red;">**University President Award**</span>
+
+**[Oct 2016]** Workshop, International Workshop on Emerging ICT, Sendai, Japan, *"Vehicle Crash Avoidance Systems based on Rear Lamp Detection"*
+
 Invited Talks
 ------
 **[Aug 2024]** Kyungpook National University, Daegu, South Korea, *"Application of Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems,”* 

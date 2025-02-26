@@ -30,7 +30,7 @@ https://saiconference.com/Downloads/FTC2017/Proceedings/10_Paper_452-CR-MEGA_Mut
 Workshops and Posters
 ------
 ***DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection*** (<a href="/files/MSW_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>)<br/>
-The Midwest Security Workshop at Purdue University, 2024 <br/> 
+The Midwest Security Workshop at Purdue University, 2024<br/> 
 <span style="color: red;">**Best Poster Award**</span>
 
 ***Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security*** <br/>

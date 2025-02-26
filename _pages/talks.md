@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Talks and Presentations"
+title: "Presentations and Talks"
 author_profile: true
 redirect_from:
   - /about/
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 
-Talks
-------
-**[Aug 2024]** Kyungpook National University, Daegu, South Korea, *"Application of Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems,”* 
 
 Presentation
 ------
@@ -22,6 +19,9 @@ Presentation
 
 **[Dec 2023]** Conference, Proceedings of the 39th Annual Computer Security Applications Conference (ACSAC), Austin, TX, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”*
 
+Invited Talks
+------
+**[Aug 2024]** Kyungpook National University, Daegu, South Korea, *"Application of Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems,”* 
 
 
 

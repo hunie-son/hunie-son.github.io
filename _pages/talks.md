@@ -12,6 +12,7 @@ redirect_from:
 Presentation
 ------
 **[Nov 2025]** Poster, 9th Midwest Security Workshop (MSW 9), Purdue University, West Lafayette, IN, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”* 
+<span style="color: red;">**Best Poster Award**</span>
 
 **[Oct 2025]** Poster, National Cybersecurity Education Colloquium (NCEC), St.Louis, MO, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”*
 

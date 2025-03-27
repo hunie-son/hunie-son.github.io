@@ -22,9 +22,11 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 
 News
 ------
-**[Feb. 2024]** I received a student travel grant from ASPLOS 25'.<br/>
+**[Mar. 2025]** I received a Meta Bounty Award by reporting side-channel vulnerabilies.<br/>
 
-**[Feb. 2024]** I received an internship offer from Seagate's Data Trust team (Cryptography and Security Research). <br/>
+**[Feb. 2025]** I received a student travel grant from ASPLOS 25'.<br/>
+
+**[Feb. 2025]** I received an internship offer from Seagate's Data Trust team (Cryptography and Security Research). <br/>
 
 **[Feb. 2025]** Our paper “SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts” got accepted at ASPLOS ’25. AMD acknowledged our attack and has published a <a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>security bulletin</b></a> for our attack. <br/>
 

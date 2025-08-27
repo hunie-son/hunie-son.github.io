@@ -26,7 +26,7 @@ News
 
 **[Mar. 2025]** I received a Meta Bounty Award by reporting side-channel vulnerabilities.<br/>
 
-**[Feb. 2025]** I received a student travel grant from ASPLOS 25'.<br/>
+**[Feb. 2025]** I received a student travel grant from ASPLOS 25.<br/>
 
 **[Feb. 2025]** I received an internship offer from Seagate's Data Trust team (Cryptography and Security Research). <br/>
 
@@ -34,7 +34,7 @@ News
 
 **[Nov. 2024]** Our poster, "DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection,” got the best poster award at the Midwest Security Workshop 2024 organized at Purdue University. (<a href="/files/MSW_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>)<br/>
 
-**[Oct. 2024]** I received Sidebottom Scholarship for the academic year 2024-2025.<br/>
+**[Oct. 2024]** I received the Sidebottom Scholarship for the academic year 2024-2025.<br/>
 
 **[Sep. 2024]** I will present a research poster at the CAE-R Symposium in St Louis.<br/>
 
@@ -44,4 +44,4 @@ News
 
 **[Mar. 2024]** Our poster on the security of Machine Learning models, in collaboration with NSA, has been accepted to the CAE symposium. I will present the poster in Kentucky<br/>
 
-**[Dec. 2023]** Our paper, "DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection" is accepted at ACSAC 2023 <br/>
+**[Dec. 2023]** Our paper, "DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection," is accepted at ACSAC 2023 <br/>

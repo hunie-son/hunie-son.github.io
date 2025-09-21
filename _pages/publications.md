@@ -14,7 +14,7 @@ Selected Publications
 **Seonghun Son**, Chandrika Mukherjee, Reham Mohamed Aburas, Berk Gulmezoglu and Z. Berkay Celik<br/>
 Network and Distributed System Security Symposium (**NDSS**) <br/>
 San Diego, CA, Feburary 2026 (Acceptance Rate: TBD%) <br/>
-<a href="https://arxiv.org/abs/2509.10703" style="text-decoration: none;"><b>Paper</b></a>
+<a href="https://arxiv.org/pdf/2509.10703" style="text-decoration: none;"><b>Paper</b></a>
 
 ***SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts***<br/>
 **Seonghun Son**, Daniel Moghimi, and Berk Gulmezoglu<br/>

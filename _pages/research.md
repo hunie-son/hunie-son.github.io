@@ -11,20 +11,20 @@ Microarchitectural Side-channel Attacks & Defense Utilizing AI
 ------
 * Defending Side-channel Attacks by Utilizing Generative AI Algorithms.
 <div align="center">
-  <img src="../images/DefWeb/Figure_scenario_new.png" width="300" height="200" alt="Threat model for the attacker and the defense mechanisms." style="display: inline-block; margin: 0 10px;">
-  <img src="../images/DefWeb/NoiseTemplateAdded_v2.png" width="400" height="300" alt="Noise added Website Fingerprint dataset." style="display: inline-block; margin: 0 10px;">
+  <img src="../images/DefWeb/Figure_scenario_new.png" width="300" height="200" alt="Threat model for the attacker and the defense mechanisms" style="display: inline-block; margin: 0 10px;">
+  <img src="../images/DefWeb/NoiseTemplateAdded_v2.png" width="400" height="300" alt="Noise added Website Fingerprint dataset" style="display: inline-block; margin: 0 10px;">
 </div>
 
 * Investigating CPU Cache-based Attacks on Intel and AMD devices.
 <div align="center">
-  <img src="../images/SMaCk/cache_time_smack_mastik_cascadelake_all.png" width="250" height="450" alt="CPU cycle time difference for various Probe strategies and Mastik method on Intel Cascade Lake microarchitecture." style="display: inline-block; margin: 0 10px;">
+  <img src="../images/SMaCk/cache_time_smack_mastik_cascadelake_all.png" width="250" height="450" alt="CPU cycle time difference for various Probe strategies and Mastik method on Intel Cascade Lake microarchitecture" style="display: inline-block; margin: 0 10px;">
   <img src="../images/SMaCk/Prefetch_Spectre.png" width="350" height="150" alt="Spectre Attack with SMC behavior" style="display: inline-block; margin: 0 10px;">
 </div>
 
 * Analyzing Vulnerabilities on AR/VR devices (Meta Quest, Microsoft HoloLens).
 <div align="center">
-  <img src="../images/OVRWatcher/ThreatModel.png" width="400" height="300" alt="Threat model for the attacker and the defense mechanisms." style="display: inline-block; margin: 0 10px;">
-  <img src="../images/OVRWatcher/ArchitectureFigure.png" width="200" height="150" alt="Noise added Website Fingerprint dataset." style="display: inline-block; margin: 0 10px;">
+  <img src="../images/OVRWatcher/ThreatModel.png" width="300" height="200" alt="Illustration of Threat Model" style="display: inline-block; margin: 0 10px;">
+  <img src="../images/OVRWatcher/ArchitectureFigure.png" width="400" height="300" alt="Architecture of System" style="display: inline-block; margin: 0 10px;">
 </div>
 
 * Exploring Cryptography (RSA Key, OpenSSL SRP, Homomorphic Encryption) Vulnerabilities.

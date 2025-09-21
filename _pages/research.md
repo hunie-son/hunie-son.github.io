@@ -24,7 +24,7 @@ Microarchitectural Side-channel Attacks & Defense Utilizing AI
 * Analyzing Vulnerabilities on AR/VR devices (Meta Quest, Microsoft HoloLens).
 <div align="center">
   <img src="../images/OVRWatcher/ThreatModel.png" width="350" height="250" alt="Illustration of Threat Model" style="display: inline-block; margin: 0 10px;">
-  <img src="../images/OVRWatcher/ArchitectureFigure.png" width="400" height="300" alt="Architecture of System" style="display: inline-block; margin: 0 10px;">
+  <img src="../images/OVRWatcher/ArchitectureFigure.png" width="350" height="250" alt="Architecture of System" style="display: inline-block; margin: 0 10px;">
 </div>
 
 * Exploring Cryptography (RSA Key, OpenSSL SRP, Homomorphic Encryption) Vulnerabilities.

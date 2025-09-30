@@ -10,7 +10,7 @@ I am a Ph.D. candidate in Computer Engineering at Iowa State University, working
 
 My research focuses on security threats in modern computing systems, including Intel and AMD platforms, as well as emerging AR/VR devices. <br/> 
 
-My focus has three parts: <br/>(1) **Microarchitectural side-channel attacks** and **AI-driven mitigations**.<br/>(2) **Machine learning security**.<br/>(3) **Cryptographic systems (FHE)**.
+My focus has three parts: <br/>&emsp;(1) **Microarchitectural side-channel attacks** and **AI-driven mitigations**.<br/>&emsp;(2) **Machine learning security**.<br/>&emsp;(3) **Cryptographic systems (FHE)**.
 
 By utilizing cutting-edge AI techniques with scalable security solutions, I strive to protect user privacy and build trustworthy hardware and software systems.
 

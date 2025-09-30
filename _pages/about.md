@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a Ph.D. candidate in Computer Engineering at Iowa State University, working under Dr.Gulmezoglu in the <a href="https://www.ece.iastate.edu/bgulmez" style="text-decoration: none;"><b>MAIS Lab</b></a>. 
 
-My research focuses on security threats in modern computing systems, including Intel and AMD platforms, as well as emerging AR/VR devices. My focus has three parts. (1) **Microarchitectural side-channel attacks** and **AI-driven mitigations**. (2) **Machine learning security**. (3) **Cryptographic systems** with an emphasis on fully homomorphic encryption (FHE).
+My research focuses on security threats in modern computing systems, including Intel and AMD platforms, as well as emerging AR/VR devices. My focus has three parts.<br/>(1) **Microarchitectural side-channel attacks** and **AI-driven mitigations**. (2) **Machine learning security**. (3) **Cryptographic systems** with an emphasis on fully homomorphic encryption (FHE).
 
 By utilizing cutting-edge AI techniques with scalable security solutions, I strive to protect user privacy and build trustworthy hardware and software systems.
 

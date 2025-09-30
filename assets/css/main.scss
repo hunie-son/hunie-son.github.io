@@ -42,3 +42,52 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
+/* ------------------------------------------------------------------
+   Global typographic overrides (placed AFTER imports to win cascade)
+   Adjust these to taste if you want slightly bigger/smaller text.
+------------------------------------------------------------------- */
+
+/* Base scale */
+html { font-size: 18px; }              /* ~18px base (up from 16px) */
+body { line-height: 1.75; }
+
+/* Content column width (optional, for a roomier feel) */
+.page { max-width: 1100px; }
+
+/* Content area text & headings (Minimal Mistakes–style scale) */
+.page__content { font-size: 1rem; }
+.page__content h1,
+.page__title { font-size: 2.074rem; margin-top: 1.4em; margin-bottom: .6em; }
+.page__content h2 { font-size: 1.728rem; margin-top: 1.2em; margin-bottom: .5em; }
+.page__content h3 { font-size: 1.44rem;  margin-top: 1.1em; margin-bottom: .45em; }
+.page__content h4 { font-size: 1.2rem;   margin-top: 1em;   margin-bottom: .4em; }
+.page__content h5 { font-size: 1.0rem;   margin-top: .9em;  margin-bottom: .35em; }
+.page__content h6 { font-size: 0.85rem;  margin-top: .9em;  margin-bottom: .35em; text-transform: none; }
+
+/* Lead paragraph (used on many pages) */
+.page__lead { font-size: 1.2rem; line-height: 1.8; }
+
+/* Lists and paragraphs inside content */
+.page__content p,
+.page__content li { font-size: 1rem; }
+
+/* Archive / list pages (project/post cards) */
+.archive__item-title,
+.archive__item-title a { font-size: 1.2rem; line-height: 1.4; }
+.archive__item-excerpt { font-size: .95rem; }
+
+/* Sidebar/meta a touch smaller so main copy stands out */
+.sidebar, .page__meta { font-size: .95rem; }
+
+/* Header/nav slight refinement (optional) */
+.site-title, .masthead__menu-item { font-size: 1rem; }
+
+/* Small-screen tuning so things don’t feel oversized on phones */
+@media (max-width: 640px) {
+  html { font-size: 17px; }
+  .page { max-width: 94vw; }
+  .page__content h1,
+  .page__title { font-size: 1.9rem; }
+  .page__content h2 { font-size: 1.6rem; }
+  .page__content h3 { font-size: 1.3rem; }
+}

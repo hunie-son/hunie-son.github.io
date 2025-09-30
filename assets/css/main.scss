@@ -73,14 +73,14 @@ body { line-height: 1.75; }
 
 /* Archive / list pages (project/post cards) */
 .archive__item-title,
-.archive__item-title a { font-size: 1.2rem; line-height: 1.4; }
+.archive__item-title a { font-size: 1rem; line-height: 1.4; }
 .archive__item-excerpt { font-size: .95rem; }
 
 /* Sidebar/meta a touch smaller so main copy stands out */
 .sidebar, .page__meta { font-size: .95rem; }
 
 /* Header/nav slight refinement (optional) */
-.site-title, .masthead__menu-item { font-size: 1rem; }
+.site-title, .masthead__menu-item { font-size: .95rem; }
 
 /* Small-screen tuning so things don’t feel oversized on phones */
 @media (max-width: 640px) {

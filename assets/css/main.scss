@@ -1,5 +1,33 @@
+
 ---
+# Only the main Sass file needs front matter
 ---
+
+/* =========
+   Your overrides (before imports)
+   ========= */
+
+/* Slightly larger, more readable base size + line height */
+$doc-font-size: 18 !default;      // body font size (~18px)
+$base-line-height: 1.75 !default; // a bit more breathing room
+
+/* Headings / type scale (adjust to taste) */
+$type-size-1 : 2.074em !default;  // H1
+$type-size-2 : 1.728em !default;  // H2
+$type-size-3 : 1.44em  !default;  // H3
+$type-size-4 : 1.2em   !default;  // Lead/large text
+$type-size-5 : 1em     !default;  // Body
+$type-size-6 : 0.85em  !default;  // Small text
+
+/* Optional: widen the reading column a bit */
+.page {
+  max-width: 1100px;  /* tweak 1000–1200px to your preference */
+}
+
+/* =========
+   Keep your existing imports below. Do NOT remove them.
+   ========= */
+
 
 /*
  * This file controls what is imported from /_sass

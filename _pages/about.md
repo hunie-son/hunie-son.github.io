@@ -14,7 +14,7 @@ I am a Ph.D. candidate in Computer Engineering at Iowa State University, advised
 <br/> &emsp;• Machine learning security
 <br/> &emsp;• Cryptographic systems, including fully homomorphic encryption (FHE)
 
-By utilizing cutting-edge AI techniques with scalable security solutions, I strive to protect user privacy and build trustworthy hardware and software systems.
+I leverage cutting-edge AI techniques to engineer scalable security solutions that protect user privacy and deliver trustworthy hardware and software systems.
 
 <!--
 Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrastructure Strategy and Planning Team at South Korea’s South Korea’s National Information Society Agency (<a href="https://eng.nia.or.kr/site/nia_eng/main.do" style="text-decoration: none;"><b>NIA</b></a>).
@@ -23,6 +23,10 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 <!-- News
 ======
 -->
+
+<br/> 
+<br/> 
+<br/> 
 
 News
 ------

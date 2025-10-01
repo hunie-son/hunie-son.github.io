@@ -23,8 +23,6 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 <!-- News
 ======
 -->
-
-<br/> 
 <br/> 
 
 News

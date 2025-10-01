@@ -24,7 +24,6 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 ======
 -->
 <br/> 
-
 News
 ------
 **[Sep. 2025]** I passed my Ph.D. preliminary exam! I am officially ABD (all but defense). Deep thanks to my committee, advisor, and collaborators. <br/>

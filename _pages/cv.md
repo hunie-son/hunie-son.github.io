@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ------
+More details: <a href="/files/SeonghunSon_CV.pdf" target="_blank" style="text-decoration: none;"><b>[CV]</b></a> <br/> 
 
 Education
 ======
@@ -36,7 +37,7 @@ Work experience
   * Project Manager, Functional Safety Team
   * Established software functional safety standards based on ISO 26262.
 
-More details click [CV]
+More details: <a href="/files/SeonghunSon_CV.pdf" target="_blank" style="text-decoration: none;"><b>[CV]</b></a> <br/> 
 
 <!--  
 Under Construction

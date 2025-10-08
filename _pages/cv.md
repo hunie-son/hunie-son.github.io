@@ -12,18 +12,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, Iowa State University, USA, May. 2026 (expected)
-* B.S. in Information and Communication Engineering, Yeungnam University, South Korea, Feb. 2019
+* Jan. 2021 – Present (Expected May. 2026),&ensp; **Iowa State University**
+  * Ph.D Candidate (**ABD**) in Electrical and Computer Engineering
+  * Advisor: Dr. Berk Gulmezoglu
+ 
+* Mar. 2012 – Feb.2019,&ensp; **Yeungnam University**
+  * B.S. in Information and Communication Engineering
+  * Advisor: Dr. Jin-Ghoo Choi
+  * Thesis: Night Collision Avoidance System by Detection of Forward Vehicles.
 
 Work experience
 ======
 * May. 2025 – Present,&ensp; **Seagate Technology**
   * Research Intern, Data Trust Team
-  * Supervisor: Dr. Hannah Davis
+  * Advisor: Dr. Hannah Davis
 
 * May. 2024 – Jul. 2024,&ensp; **Purdue University**
   * Visiting Scholar, PurSec Lab
-  * Supervisor: Dr. Berkay Celik
+  * Advisor: Dr. Berkay Celik
 
 * Sep. 2020 – Dec. 2020,&ensp; **National Information Society Agency (NIA)**
   * Project Manager, ICT Infrastructure Strategy and Planning Team

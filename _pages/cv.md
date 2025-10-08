@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ------
-* Jan. 2021 – Present (Expected May. 2026),&ensp; **Iowa State University**
-  * Ph.D Candidate (**ABD**) in Electrical and Computer Engineering
+* Jan. 2021 – Present (**Expected May 2026**),&ensp; **Iowa State University**
+  * Ph.D Candidate in Electrical and Computer Engineering
   * Advisor: Dr. Berk Gulmezoglu
  
 * Mar. 2012 – Feb.2019,&ensp; **Yeungnam University**

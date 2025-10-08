@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 ------
-More details: <a href="/files/SeonghunSon_CV.pdf" target="_blank" style="text-decoration: none;"><b>[CV]</b></a> <br/> 
 
 Education
 ======
@@ -32,7 +31,7 @@ Work experience
 * Sep. 2020 – Dec. 2020,&ensp; **SL Corporation, Electronics R&D Center**
   * Project Manager, Functional Safety Team
 
-More details: <a href="/files/SeonghunSon_CV.pdf" target="_blank" style="text-decoration: none;"><b>[CV]</b></a> <br/> 
+<a href="/files/SeonghunSon_CV.pdf" target="_blank" style="text-decoration: none;"><b>[CV]</b></a> <br/> 
 
 <!--  
 Under Construction

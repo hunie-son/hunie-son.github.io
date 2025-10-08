@@ -21,16 +21,16 @@ Education
 
 Work experience
 ------
-* May. 2025 – Present, **Seagate Technology**
+* May. 2025 – Present, **Seagate Technology**<br/>
 &ensp; Research Intern, Data Trust Team (Mentor: Dr. Hannah Davis)
 
-* May. 2024 – Jul. 2024, **Purdue University**
+* May. 2024 – Jul. 2024, **Purdue University**<br/>
 &ensp; Visiting Scholar, PurSec Lab (Mentor: Dr. Berkay Celik)
 
-* Sep. 2020 – Dec. 2020, **National Information Society Agency (NIA)**
+* Sep. 2020 – Dec. 2020, **National Information Society Agency (NIA)**<br/>
 &ensp; Project Manager, ICT Infrastructure Strategy and Planning Team
     
-* Sep. 2020 – Dec. 2020, **SL Corporation, Electronics R&D Center**
+* Sep. 2020 – Dec. 2020, **SL Corporation, Electronics R&D Center**<br/>
 &ensp; Project Manager, Functional Safety Team
 
 <a href="/files/SeonghunSon_CV.pdf" target="_blank" style="text-decoration: none;"><b>[More]</b></a> <br/> 

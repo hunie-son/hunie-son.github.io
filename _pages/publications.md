@@ -37,7 +37,7 @@ https://saiconference.com/Downloads/FTC2017/Proceedings/10_Paper_452-CR-MEGA_Mut
 
 Workshops and Posters
 ------
-***DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection*** (<a href="/files/MSW_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>)<br/>
+***DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection*** (<a href="/files/MSW_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>[PDF]</b></a>)<br/>
 The Midwest Security Workshop at Purdue University, 2024<br/> 
 <span style="color: red;">**Best Poster Award**</span>
 
@@ -45,7 +45,7 @@ The Midwest Security Workshop at Purdue University, 2024<br/>
 National Cybersecurity Education Colloquium, 2024 <br/> 
 
 ***Vehicle Crash Avoidance based on Rear Lamp Detection Systems*** (<a href="
-http://www.spcom.ecei.tohoku.ac.jp/JCK-WS2016/papers/16-8.pdf" style="text-decoration: none;"><b>Paper</b></a>)<br/>
+http://www.spcom.ecei.tohoku.ac.jp/JCK-WS2016/papers/16-8.pdf" style="text-decoration: none;"><b>[Paper]</b></a>)<br/>
 International Workshop on Emerging ICT, 2016 <br/> 
 
 

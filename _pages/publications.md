@@ -39,8 +39,8 @@ Workshops and Posters
 ------
 ***DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection*** <br/>
 The Midwest Security Workshop at Purdue University, 2024<br/> 
-<a href="/files/MSW_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>[PDF]</b></a>
 <span style="color: red;">**Best Poster Award**</span>
+<a href="/files/MSW_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>[PDF]</b></a> <br/> 
 
 ***Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security*** <br/>
 National Cybersecurity Education Colloquium, 2024 <br/> 

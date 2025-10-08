@@ -36,7 +36,7 @@ Work experience
   * Project Manager, Functional Safety Team
   * Established software functional safety standards based on ISO 26262.
 
-[CV]
+More details click [CV]
 
 <!--  
 Under Construction

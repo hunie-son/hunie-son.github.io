@@ -11,7 +11,7 @@ redirect_from:
 ------
 
 Education
-======
+------
 * Jan. 2021 – Present (Expected May. 2026),&ensp; **Iowa State University**
   * Ph.D Candidate (**ABD**) in Electrical and Computer Engineering
   * Advisor: Dr. Berk Gulmezoglu
@@ -22,7 +22,7 @@ Education
   * Thesis: Night Collision Avoidance System by Detection of Forward Vehicles.
 
 Work experience
-======
+------
 * May. 2025 – Present,&ensp; **Seagate Technology**
   * Research Intern, Data Trust Team
   * Advisor: Dr. Hannah Davis

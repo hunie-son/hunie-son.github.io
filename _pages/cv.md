@@ -15,9 +15,9 @@ Education
 * Jan. 2021 – Present (**Expected May 2026**), **Iowa State University**<br/>
 &ensp; Ph.D. Candidate in Electrical and Computer Engineering (Advisor: Dr. Berk Gulmezoglu)
  
-* Mar. 2012 – Feb.2019,&ensp; **Yeungnam University**
-  * B.S. in Information and Communication Engineering (Advisor: Dr. Jin-Ghoo Choi)
-  * *Thesis: Night Collision Avoidance System by Detection of Forward Vehicles.*
+* Mar. 2012 – Feb.2019,&ensp; **Yeungnam University**<br/>
+&ensp; B.S. in Information and Communication Engineering (Advisor: Dr. Jin-Ghoo Choi)<br/>
+&ensp; Thesis: Night Collision Avoidance System by Detection of Forward Vehicles.*
 
 Work experience
 ------

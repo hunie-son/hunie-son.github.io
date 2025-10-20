@@ -27,7 +27,11 @@ Microarchitectural Side-channel Attacks & Defense Utilizing AI
   <img src="../images/OVRWatcher/ArchitectureFigure.png" width="350" height="250" alt="Architecture of System" style="display: inline-block; margin: 0 10px;">
 </div>
 
+
+Cryptographic systems
+------
 * Exploring Cryptography (RSA Key, OpenSSL SRP, Homomorphic Encryption) Vulnerabilities.
+  
 
 Machine Learning Security
 ------

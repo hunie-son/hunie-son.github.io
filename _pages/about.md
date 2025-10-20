@@ -9,6 +9,13 @@ redirect_from:
 
 I am a Ph.D. candidate (ABD) in Computer Engineering at Iowa State University, advised by Dr. Berk Gulmezoglu in the  <a href="https://www.ece.iastate.edu/bgulmez/" style="text-decoration: none;"><b>MAIS Lab</b></a>, and I am currently a (long-term) research intern at Seagate Research Group’s Data Trust Team.<br/>
 
+<div style="text-align:center;">
+  <img src="../images/Intro/IntroImage_v3.png"
+       alt="My Research Focus"
+       width="550" height="350"
+       style="display:inline-block;">
+</div>
+
 My research focuses on identifying security vulnerabilities in modern computing systems and emerging computing platforms. I utilize side-channel analysis, system-level profiling, AI-driven mitigations, cryptographic methods, and TEE-integrated designs to strengthen privacy and trust guarantees in real-world deployments. Those approaches span microarchitectures (Intel, AMD, and ARM) and immersive platforms (AR/VR headsets), translating vulnerability discovery into deployable defenses. In doing so, my work enhances our understanding of security issues in hardware systems and enables scalable, AI-based defenses. <br/>
 
 **Research focus**

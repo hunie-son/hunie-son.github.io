@@ -11,12 +11,12 @@ I am a Ph.D. candidate (ABD) in Computer Engineering at Iowa State University, a
 
 My research focuses on identifying security vulnerabilities in modern computing systems and emerging computing platforms. I utilize side-channel analysis, system-level profiling, AI-driven mitigations, cryptographic methods, and TEE-integrated designs to strengthen privacy and trust guarantees in real-world deployments. Those approaches span microarchitectures (Intel, AMD, and ARM) and immersive platforms (AR/VR headsets), translating vulnerability discovery into deployable defenses. In doing so, my work deepens our understanding of security issues on hardware systems and enables scalable AI-based defenses. <br/>
 
-My work has been recognized by AMD through a security bulletin (<a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD-SB-7024</b></a>) and by Meta through a bounty award. My works have been published at top security conferences, including ACSAC, ASPLOS, and NDSS.
-
 **Research focus**
 <br/> &emsp;• Hardware security, microarchitectural side channel attacks and AI-driven mitigations
 <br/> &emsp;• Cryptographic systems, including fully homomorphic encryption (FHE)
 <br/> &emsp;• Machine learning security
+
+My work has been recognized by AMD through a security bulletin (<a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD-SB-7024</b></a>) and by Meta through a bounty award. My works have been published at top security conferences, including ACSAC, ASPLOS, and NDSS.
 
 
 <!--

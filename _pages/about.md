@@ -11,8 +11,8 @@ I am a Ph.D. candidate in Computer Engineering at Iowa State University, advised
 
 **Research focus**
 <br/> &emsp;• Hardware security, microarchitectural side channel attacks and AI-driven mitigations
-<br/> &emsp;• Machine learning security
 <br/> &emsp;• Cryptographic systems, including fully homomorphic encryption (FHE)
+<br/> &emsp;• Machine learning security
 
 I leverage cutting-edge AI techniques to engineer scalable security solutions that protect user privacy and deliver trustworthy hardware systems.
 

@@ -21,7 +21,7 @@ My work has been recognized by AMD through a security bulletin (<a href="https:/
 <div style="text-align:center;">
   <img src="../images/Intro/IntroImage_v3.png"
        alt="My Research Focus"
-       width="600" height="350"
+       width="550" height="350"
        style="display:inline-block;">
 </div>
 

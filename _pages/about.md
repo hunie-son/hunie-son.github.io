@@ -46,32 +46,32 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 
 News
 ------
-**[Oct. 2025]** I gave a talk on "Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Environment" at the 4th bi-annual Seagate AI-Summit (global event). <br/>
+**[Oct. 2025]** I gave a **talk** on "Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Environment" at the 4th bi-annual Seagate AI-Summit (global event). <br/>
 
-**[Oct. 2025]** I received a department <a href="https://news.engineering.iastate.edu/2025/09/30/seonghun-son-advancing-hardware-and-systems-security/" style="text-decoration: none;"><b>Recognition Award</b></a>. Thank you to the ECpE department for recognizing our work! <br/>
+**[Oct. 2025]** I received a department <a href="https://news.engineering.iastate.edu/2025/09/30/seonghun-son-advancing-hardware-and-systems-security/" style="text-decoration: none;"><b>Recognition **Award**</b></a>. Thank you to the ECpE department for recognizing our work! <br/>
 
 **[Sep. 2025]** I passed my Ph.D. preliminary exam! I am officially ABD (all but defense). Deep thanks to my committee, advisor, and collaborators. <br/>
 
-**[Aug. 2025]** Our collaborative research with Purdue University on GPU-based side-channel attacks in XR has been accepted at NDSS 2026. <br/>
+**[Aug. 2025]** Our collaborative research **paper** with Purdue University on GPU-based side-channel attacks in XR has been accepted at NDSS 2026. <br/>
 
-**[Mar. 2025]** I received a Meta Bounty Award by reporting side-channel vulnerabilities.<br/>
+**[Mar. 2025]** I received a Meta Bounty **Award** by reporting side-channel vulnerabilities.<br/>
 
-**[Feb. 2025]** I received a student travel grant from ASPLOS 25.<br/>
+**[Feb. 2025]** I received a student travel **grant** from ASPLOS 25.<br/>
 
-**[Feb. 2025]** I received an internship offer from Seagate's Data Trust team (Cryptography and Security Research). <br/>
+**[Feb. 2025]** I received an **internship** offer from Seagate Research Group, Data Trust team (Cryptography and Security Research). <br/>
 
-**[Feb. 2025]** Our paper “SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts” got accepted at ASPLOS ’25. AMD acknowledged our attack and has published a <a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>security bulletin</b></a> for our attack. <br/>
+**[Feb. 2025]** Our **paper** “SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts” got accepted at ASPLOS ’25. AMD acknowledged our attack and has published a <a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>security bulletin</b></a> for our attack. <br/>
 
-**[Nov. 2024]** Our poster, "DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection,” got the best poster award at the Midwest Security Workshop 2024, organized at Purdue University. (<a href="/files/MSW_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>)<br/>
+**[Nov. 2024]** Our **poster**, "DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection,” got the **best poster award** at the Midwest Security Workshop 2024, organized at Purdue University. (<a href="/files/MSW_Seonghun.pdf" target="_blank" style="text-decoration: none;"><b>PDF</b></a>)<br/>
 
-**[Oct. 2024]** I received the Sidebottom Scholarship for the academic year 2024-2025.<br/>
+**[Oct. 2024]** I received the Sidebottom **Scholarship** for the academic year 2024-2025.<br/>
 
-**[Sep. 2024]** I presented a research poster at the CAE-R Symposium in St Louis.<br/>
+**[Sep. 2024]** I presented a research **poster** at the CAE-R Symposium in St Louis.<br/>
 
-**[Aug. 2024]** I gave an invited talk on "Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems” at Kyungpook National University in South Korea.<br/>
+**[Aug. 2024]** I gave an **invited talk** on "Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems” at Kyungpook National University in South Korea.<br/>
 
-**[May. 2024]** I joined the  <a href="https://beerkay.github.io/" style="text-decoration: none;"><b>Dr.Berkay Celik's</b></a> <a href="https://pursec.cs.purdue.edu/" style="text-decoration: none;"><b>PurSec</b></a> Lab as a research intern during the summer. <br/>
+**[May. 2024]** I joined the  <a href="https://beerkay.github.io/" style="text-decoration: none;"><b>Dr.Berkay Celik's</b></a> <a href="https://pursec.cs.purdue.edu/" style="text-decoration: none;"><b>PurSec</b></a> Lab as a **research intern** during the summer. <br/>
 
-**[Mar. 2024]** Our poster on the security of Machine Learning models, in collaboration with NSA, has been accepted to the CAE symposium. I presented the poster in Kentucky<br/>
+**[Mar. 2024]** Our **poster** on the security of Machine Learning models, in collaboration with NSA, has been accepted to the CAE symposium. I presented the poster in Kentucky<br/>
 
-**[Dec. 2023]** Our paper, "DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection," is accepted at ACSAC 2023 <br/>
+**[Dec. 2023]** Our **paper**, "DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection," is accepted at ACSAC 2023 <br/>

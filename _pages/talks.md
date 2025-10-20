@@ -11,6 +11,10 @@ redirect_from:
 
 Presentation
 ------
+**[Oct 2025]** Invited Talk, Seagate AI Summit *“Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Enclaves”* <br/> 
+
+**[Oct 2025]** Invited Talk, Iowa State University EE5900 seminar, *“Hardware Security and CyMath: How to effectively shine your presentation”* <br/> 
+
 **[Apr 2025]** Conference, ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Rotterdam, Netherlands, *“SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts”* <br/>
 
 **[Nov 2025]** Poster, 9th Midwest Security Workshop (MSW 9), Purdue University, West Lafayette, IN, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”* <br/>

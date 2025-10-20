@@ -9,7 +9,9 @@ redirect_from:
 
 I am a Ph.D. candidate (ABD) in Computer Engineering at Iowa State University, advised by Dr. Berk Gulmezoglu in the  <a href="https://www.ece.iastate.edu/bgulmez/" style="text-decoration: none;"><b>MAIS Lab</b></a>. <br/>
 
-My research investigates the security of hardware and systems on emerging computing platforms and within the complex environments they inhabit. I use side-channel analysis, system-level profiling, AI-driven mitigations, cryptographic methods, and TEE-integrated designs to strengthen privacy and trust guarantees in real-world deployments. The approach spans  microarchitectures and immersive platforms such as AR and VR headsets, connecting rigorous vulnerability discovery with deployable defenses. In doing so, my work advances our understanding of security issues in hardware systems and enables scalable defenses. <br/>
+My research investigates security vulnerabilities in modern computing systems and emerging computing platforms. I utilize side-channel analysis, system-level profiling, AI-driven mitigations, cryptographic methods, and TEE-integrated designs to strengthen privacy and trust guarantees in real-world deployments. Those approaches span microarchitectures (Intel, AMD, and ARM) and immersive platforms (AR/VR headsets), translating vulnerability discovery into deployable defenses. In doing so, my work deepens our understanding of security issues on hardware systems and enables scalable AI-based defenses. <br/>
+
+My work has been recognized by AMD through security bulletin  <a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD-SB-7024</b></a> and by Meta through a bounty award. My works have been published at top security conferences such as ACSAC, ASPLOS, and NDSS.
 
 **Research focus**
 <br/> &emsp;• Hardware security, microarchitectural side channel attacks and AI-driven mitigations

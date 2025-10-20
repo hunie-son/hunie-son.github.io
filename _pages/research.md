@@ -30,8 +30,13 @@ Microarchitectural Side-channel Attacks & Defense Utilizing AI
 
 Cryptographic systems
 ------
+* Extracting cryptographic keys (RSA Key, OpenSSL SRP)
+<div align="center">
+  <img src="../images/SMaCk/SMC_RSA.jpg" width="350" height="250" alt="RSA key recovery with SMC attack" style="display: inline-block; margin: 0 10px;">
+  <img src="../images/SMaCk/OpenSSLSRP.jpg" width="350" height="250" alt="OpenSSL SRP key recovery with SMC attack" style="display: inline-block; margin: 0 10px;">
+</div>
+
 * Exploring Cryptography (RSA Key, OpenSSL SRP, Homomorphic Encryption) Vulnerabilities.
-  
 
 Machine Learning Security
 ------

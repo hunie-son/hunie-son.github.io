@@ -28,7 +28,7 @@ Microarchitectural Side-channel Attacks & Defense Utilizing AI
 </div>
 
 
-Cryptographic systems
+Cryptographic Systems
 ------
 * Extracting cryptographic keys (RSA Key, OpenSSL SRP)
 <div align="center">
@@ -36,7 +36,8 @@ Cryptographic systems
   <img src="../images/SMaCk/OpenSSLSRP.jpg" width="350" height="250" alt="OpenSSL SRP key recovery with SMC attack" style="display: inline-block; margin: 0 10px;">
 </div>
 
-* Exploring Cryptography (RSA Key, OpenSSL SRP, Homomorphic Encryption) Vulnerabilities.
+* Fully Homomorphic Encryption
+in-progress
 
 Machine Learning Security
 ------
@@ -47,7 +48,7 @@ Machine Learning Security
 </div>
 
 * Studying Intrinsic Dimension Estimation for Enhanced Machine Learning Security.
-
+in-progress
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014

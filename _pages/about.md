@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate (ABD) in Computer Engineering at Iowa State University, advised by Dr. Berk Gulmezoglu in the  <a href="https://www.ece.iastate.edu/bgulmez/" style="text-decoration: none;"><b>MAIS Lab</b></a>, and I am currently a (long-term) research intern at Seagate Research Group’s Data Trust Team.<br/>
 
-My research focuses on identifying security vulnerabilities in modern computing systems and emerging computing platforms. I utilize side-channel analysis, system-level profiling, AI-driven mitigations, cryptographic methods, and TEE-integrated designs to strengthen privacy and trust guarantees in real-world deployments. Those approaches span microarchitectures (Intel, AMD, and ARM) and immersive platforms (AR/VR headsets), translating vulnerability discovery into deployable defenses. In doing so, my work deepens our understanding of security issues on hardware systems and enables scalable AI-based defenses. <br/>
+My research focuses on identifying security vulnerabilities in modern computing systems and emerging computing platforms. I utilize side-channel analysis, system-level profiling, AI-driven mitigations, cryptographic methods, and TEE-integrated designs to strengthen privacy and trust guarantees in real-world deployments. Those approaches span microarchitectures (Intel, AMD, and ARM) and immersive platforms (AR/VR headsets), translating vulnerability discovery into deployable defenses. In doing so, my work enhances our understanding of security issues in hardware systems and enables scalable, AI-based defenses. <br/>
 
 **Research focus**
 <br/> &emsp;• Hardware security, microarchitectural side channel attacks and AI-driven mitigations
@@ -18,6 +18,12 @@ My research focuses on identifying security vulnerabilities in modern computing 
 
 My work has been recognized by AMD through a security bulletin (<a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD-SB-7024</b></a>) and by Meta through a bounty award, and it has appeared at top security conferences, including ACSAC, ASPLOS, and NDSS.<br/><br/>
 
+<div style="text-align:center;">
+  <img src="../images/Intro/IntroImage.png"
+       alt="Combined figure"
+       width="700" height="300"
+       style="display:inline-block;">
+</div>
 
 <!--
 I leverage cutting-edge AI and system-level techniques to design scalable security defenses that protect user privacy and strengthen trustworthy hardware systems.

@@ -46,6 +46,8 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 
 News
 ------
+**[Oct. 2025]** I gave a talk on "Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Environment" at the Seagate AI-Summit. <br/>
+
 **[Sep. 2025]** I passed my Ph.D. preliminary exam! I am officially ABD (all but defense). Deep thanks to my committee, advisor, and collaborators. <br/>
 
 **[Aug. 2025]** Our collaborative research with Purdue University on GPU-based side-channel attacks in XR has been accepted at NDSS 2026. <br/>
@@ -68,6 +70,6 @@ News
 
 **[May. 2024]** I joined the  <a href="https://beerkay.github.io/" style="text-decoration: none;"><b>Dr.Berkay Celik's</b></a> <a href="https://pursec.cs.purdue.edu/" style="text-decoration: none;"><b>PurSec</b></a> Lab as a research intern during the summer. <br/>
 
-**[Mar. 2024]** Our poster on the security of Machine Learning models, in collaboration with NSA, has been accepted to the CAE symposium. I will present the poster in Kentucky<br/>
+**[Mar. 2024]** Our poster on the security of Machine Learning models, in collaboration with NSA, has been accepted to the CAE symposium. I presented the poster in Kentucky<br/>
 
 **[Dec. 2023]** Our paper, "DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection," is accepted at ACSAC 2023 <br/>

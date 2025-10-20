@@ -46,7 +46,7 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 
 News
 ------
-**[Oct. 2025]** I gave a talk on "Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Environment" at the Seagate AI-Summit. <br/>
+**[Oct. 2025]** I gave a talk on "Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Environment" at the 4th bi-annual Seagate AI-Summit (Global event). <br/>
 
 **[Sep. 2025]** I passed my Ph.D. preliminary exam! I am officially ABD (all but defense). Deep thanks to my committee, advisor, and collaborators. <br/>
 

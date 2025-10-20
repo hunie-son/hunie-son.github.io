@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-Presentation
+Presentations & Talks
 ------
 **[Oct 2025]** Invited Talk, Seagate AI Summit *“Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Enclaves”* <br/> 
 
@@ -22,6 +22,8 @@ Presentation
 
 **[Oct 2025]** Poster, National Cybersecurity Education Colloquium (NCEC), St.Louis, MO, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”*
 
+**[Aug 2024]** Kyungpook National University, Daegu, South Korea, *"Application of Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems,”* <br/>
+
 **[Apr 2024]** Poster, CAE in Cybersecurity Community Symposium, Louisville, KY, USA, *“Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security"*
 
 **[Dec 2023]** Conference, Proceedings of the 39th Annual Computer Security Applications Conference (ACSAC), Austin, TX, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”*
@@ -31,6 +33,7 @@ Presentation
 
 **[Oct 2016]** Workshop, International Workshop on Emerging ICT, Sendai, Japan, *"Vehicle Crash Avoidance Systems based on Rear Lamp Detection"*
 
+<!-- 
 Invited Talks
 ------
 **[Aug 2024]** Kyungpook National University, Daegu, South Korea, *"Application of Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems,”* 

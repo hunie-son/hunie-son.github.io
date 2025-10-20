@@ -36,7 +36,7 @@ Cryptographic Systems
   <img src="../images/SMaCk/OpenSSLSRP.jpg" width="350" height="250" alt="OpenSSL SRP key recovery with SMC attack" style="display: inline-block; margin: 0 10px;">
 </div>
 
-* Fully Homomorphic Encryption
+* Fully Homomorphic Encryption</br>
 in-progress
 
 Machine Learning Security
@@ -47,7 +47,7 @@ Machine Learning Security
   <img src="../images/IDETool/BIM.png" width="350" height="270" alt="Restored accuracy on BIM attack" style="display: inline-block; margin: 0 10px;">
 </div>
 
-* Studying Intrinsic Dimension Estimation for Enhanced Machine Learning Security.
+* Studying Intrinsic Dimension Estimation for Enhanced Machine Learning Security </br>
 in-progress
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)

@@ -35,6 +35,12 @@ Cryptographic systems
 
 Machine Learning Security
 ------
+* Mitigation of Adversarial Attacks (FGSM, BIM)
+<div align="center">
+  <img src="../images/IDETool/FGSM.png" width="350" height="250" alt="Illustration of Threat Model" style="display: inline-block; margin: 0 10px;">
+  <img src="../images/IDETool/BIM.png" width="350" height="250" alt="Architecture of System" style="display: inline-block; margin: 0 10px;">
+</div>
+
 * Studying Intrinsic Dimension Estimation for Enhanced Machine Learning Security.
 
 

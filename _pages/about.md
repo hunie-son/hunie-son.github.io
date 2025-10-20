@@ -19,9 +19,9 @@ My research focuses on identifying security vulnerabilities in modern computing 
 My work has been recognized by AMD through a security bulletin (<a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD-SB-7024</b></a>) and by Meta through a bounty award, and it has appeared at top security conferences, including ACSAC, ASPLOS, and NDSS.<br/><br/>
 
 <div style="text-align:center;">
-  <img src="../images/Intro/IntroImage_v2.png"
+  <img src="../images/Intro/IntroImage_v3.png"
        alt="My Research Focus"
-       width="600" height="400"
+       width="600" height="350"
        style="display:inline-block;">
 </div>
 

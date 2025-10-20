@@ -22,7 +22,7 @@ Presentations & Talks
 
 **[Oct 2025]** Poster, National Cybersecurity Education Colloquium (NCEC), St.Louis, MO, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”*
 
-**[Aug 2024]** Kyungpook National University, Daegu, South Korea, *"Application of Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems,”* <br/>
+**[Aug 2024]** Invited Talk, Kyungpook National University, Daegu, South Korea, *"Application of Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems,”* <br/>
 
 **[Apr 2024]** Poster, CAE in Cybersecurity Community Symposium, Louisville, KY, USA, *“Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security"*
 

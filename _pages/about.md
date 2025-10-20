@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate (ABD) in Computer Engineering at Iowa State University, advised by Dr. Berk Gulmezoglu in the  <a href="https://www.ece.iastate.edu/bgulmez/" style="text-decoration: none;"><b>MAIS Lab</b></a>. <br/>
+
 My research investigates the security of hardware and systems on emerging computing platforms and within the complex environments they inhabit. I use side channel analysis, system-level profiling, AI-driven mitigation, cryptographic methods, and TEE-integrated designs to strengthen privacy and trust guarantees in real-world deployments. The approach spans commodity microarchitectures and immersive platforms such as AR and VR headsets, connecting rigorous vulnerability discovery with deployable defenses. In doing so, my work advances understanding of privacy leakages and the design of scalable protections. <br/>
 
 **Research focus**

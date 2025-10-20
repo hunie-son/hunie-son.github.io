@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (ABD) in Computer Engineering at Iowa State University, advised by Dr. Berk Gulmezoglu in the  <a href="https://www.ece.iastate.edu/bgulmez/" style="text-decoration: none;"><b>MAIS Lab</b></a>, and I am currently a research intern at Seagate Technology with the Seagate Research Group’s Data Trust Team.<br/>
+I am a Ph.D. candidate (ABD) in Computer Engineering at Iowa State University, advised by Dr. Berk Gulmezoglu in the  <a href="https://www.ece.iastate.edu/bgulmez/" style="text-decoration: none;"><b>MAIS Lab</b></a>, and I am currently a (long-term) research intern at Seagate Technology with the Seagate Research Group’s Data Trust Team.<br/>
 
 My research focuses on identifying security vulnerabilities in modern computing systems and emerging computing platforms. I utilize side-channel analysis, system-level profiling, AI-driven mitigations, cryptographic methods, and TEE-integrated designs to strengthen privacy and trust guarantees in real-world deployments. Those approaches span microarchitectures (Intel, AMD, and ARM) and immersive platforms (AR/VR headsets), translating vulnerability discovery into deployable defenses. In doing so, my work deepens our understanding of security issues on hardware systems and enables scalable AI-based defenses. <br/>
 
@@ -16,7 +16,7 @@ My research focuses on identifying security vulnerabilities in modern computing 
 <br/> &emsp;• Cryptographic systems, including fully homomorphic encryption (FHE)
 <br/> &emsp;• Machine learning security
 
-My work has been recognized by AMD through a security bulletin (<a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD-SB-7024</b></a>) and by Meta through a bounty award. My works have been published at top security conferences, including ACSAC, ASPLOS, and NDSS.
+My work has been recognized by AMD through a security bulletin (<a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD-SB-7024</b></a>) and by Meta through a bounty award, and it has appeared at top security conferences, including ACSAC, ASPLOS, and NDSS.
 
 
 <!--

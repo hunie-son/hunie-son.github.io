@@ -37,7 +37,7 @@ Cryptographic Systems
 </div>
 
 * Fully Homomorphic Encryption <br/>
-in-progress
+*in-progress*
 
 Machine Learning Security
 ------
@@ -48,7 +48,7 @@ Machine Learning Security
 </div>
 
 * Studying Intrinsic Dimension Estimation for Enhanced Machine Learning Security <br/>
-in-progress
+*in-progress*
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014

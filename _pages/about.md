@@ -48,7 +48,7 @@ News
 ------
 **[Oct. 2025]** I gave a **talk** on "Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Environment" at the 4th bi-annual Seagate AI-Summit (global event). <br/>
 
-**[Oct. 2025]** I received a department <a href="https://news.engineering.iastate.edu/2025/09/30/seonghun-son-advancing-hardware-and-systems-security/" style="text-decoration: none;"><b>Recognition **Award**</b></a>. Thank you to the ECpE department for recognizing our work! <br/>
+**[Oct. 2025]** My work has been recognized by the department <a href="https://news.engineering.iastate.edu/2025/09/30/seonghun-son-advancing-hardware-and-systems-security/" style="text-decoration: none;"><b>News</b></a>. Thank you to the ECpE department for recognizing our work! <br/>
 
 **[Sep. 2025]** I passed my Ph.D. preliminary exam! I am officially ABD (all but defense). Deep thanks to my committee, advisor, and collaborators. <br/>
 

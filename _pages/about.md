@@ -16,7 +16,7 @@ I am a Ph.D. candidate (ABD) in Computer Engineering at Iowa State University, a
        style="display:inline-block;">
 </div>
 
-My research focuses on identifying security vulnerabilities in modern computing systems and emerging computing platforms. I utilize side-channel analysis, system-level profiling, artificial intelligence (AI) driven mitigations, cryptographic methods, and trusted execution environment (TEE) integrated designs to strengthen privacy and trust guarantees in real-world deployments. Those approaches span microarchitectures (Intel, AMD, and ARM) and immersive platforms (AR/VR headsets), translating vulnerability discovery into deployable defenses. In doing so, my work enhances our understanding of security issues in hardware systems and enables scalable, AI-based defenses. <br/>
+My research focuses on identifying security vulnerabilities in modern computing systems and emerging computing platforms. I utilize side-channel analysis, system-level profiling, artificial intelligence (AI) driven mitigations, cryptographic methods, and trusted execution environment (TEE) integrated designs to strengthen privacy and trust guarantees in real-world applications. Those approaches span microarchitectures (Intel, AMD, and ARM) and immersive platforms (AR/VR headsets), translating vulnerability discovery into deployable defenses. In doing so, my work enhances our understanding of security issues in hardware systems and enables scalable, AI-based defenses. <br/>
 
 **Research focus**
 <br/> &emsp;• Hardware security, microarchitectural side channel attacks and AI-driven mitigations

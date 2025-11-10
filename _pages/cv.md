@@ -17,7 +17,7 @@ Education
  
 * Mar. 2012 – Feb.2019, **Yeungnam University**<br/>
 &ensp; B.S. in Information and Communication Engineering (Advisor: Dr. Jin-Ghoo Choi)<br/>
-&ensp; Thesis: Night Collision Avoidance System by Detection of Forward Vehicles.*
+&ensp; Thesis: Night Collision Avoidance System by Detection of Forward Vehicles.
 
 Work experience
 ------

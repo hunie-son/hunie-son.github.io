@@ -47,6 +47,8 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 
 News
 ------
+**[Dec. 2025]** I received an ISU Graduate and Professional Student Senate (GPSS) Dissertation Study Support **Award**. Thank you, GPSS! <br/>
+
 **[Oct. 2025]** I gave a **talk** on "Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Environment" at the 4th bi-annual Seagate AI-Summit (global event). <br/>
 
 **[Oct. 2025]** Our work has been recognized by the department <a href="https://news.engineering.iastate.edu/2025/09/30/seonghun-son-advancing-hardware-and-systems-security/" style="text-decoration: none;"><b>News</b></a>. Thank you to the ECpE department for recognizing our work! <br/>

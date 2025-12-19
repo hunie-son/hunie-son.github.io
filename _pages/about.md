@@ -47,6 +47,8 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 
 News
 ------
+**[Dec. 2025]** I received the **Internet Society NDSS Fellowship** for the NDSS 2026 conference. Thank you! <br/>
+
 **[Dec. 2025]** I received a Graduate and Professional Student Senate (GPSS) Dissertation Study Support **Award**. Thank you, GPSS! <br/>
 
 **[Oct. 2025]** I gave a **talk** on "Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Environment" at the 4th bi-annual Seagate AI-Summit (global event). <br/>

@@ -47,7 +47,7 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 
 News
 ------
-**[Dec. 2025]** I’m honored to have received the **Internet Society NDSS Fellowship** for NDSS 2026. Thank you! <br/>
+**[Dec. 2025]** I received the **Internet Society NDSS Fellowship** for NDSS 2026. Thank you! <br/>
 
 **[Dec. 2025]** I received a Graduate and Professional Student Senate (GPSS) Dissertation Study Support **Award**. Thank you, GPSS! <br/>
 

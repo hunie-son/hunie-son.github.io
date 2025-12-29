@@ -20,7 +20,7 @@ My research focuses on identifying security vulnerabilities in modern computing 
 
 **Research focus**
 <br/> &emsp;• Hardware security, microarchitectural side channel attacks and AI-driven mitigations
-<br/> &emsp;• Cryptographic systems, including fully homomorphic encryption (FHE)
+<br/> &emsp;• Applied cryptographic systems, including fully homomorphic encryption (FHE)
 <br/> &emsp;• Machine learning security
 
 My work has been recognized by AMD through a security bulletin (<a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD-SB-7024</b></a>) and by Meta through a bounty award, and it has appeared at top security conferences, including ACSAC, ASPLOS, and NDSS.<br/><br/>

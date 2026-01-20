@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate (ABD) in Computer Engineering at Iowa State University, advised by Dr. Berk Gulmezoglu in the  <a href="https://www.ece.iastate.edu/bgulmez/" style="text-decoration: none;"><b>MAIS Lab</b></a>, and I am currently a (long-term) research intern at Seagate Research Group’s Data Trust Team.<br/>
+I am a Ph.D. candidate (ABD) in Computer Engineering at Iowa State University, advised by Dr. Berk Gulmezoglu in the  <a href="https://www.ece.iastate.edu/bgulmez/" style="text-decoration: none;"><b>MAIS Lab</b></a>, and I am currently a research intern at Seagate Research Group’s Data Trust Team.<br/>
 
 <div style="text-align:center;">
   <img src="../images/Intro/IntroImage_v3.png"

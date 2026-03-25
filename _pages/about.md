@@ -47,9 +47,9 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 
 News
 ------
-**[Feb. 2026]** Our **poster**, based on our newly accepted NDSS paper, was accepted for presentation at NDSS 2026 <a href="https://www.ndss-symposium.org/wp-content/uploads/ndss26-poster-57.pdf" style="text-decoration: none;"><b>PDF</b></a>. <br/>
+**[Feb. 2026]** Our **poster**, based on our newly accepted NDSS paper, was accepted for presentation at NDSS 2026 (<a href="https://www.ndss-symposium.org/wp-content/uploads/ndss26-poster-57.pdf" style="text-decoration: none;"><b>PDF</b></a>). <br/>
 
-**[Dec. 2025]** I received the **Internet Society NDSS Fellowship** for NDSS 2026. Thank you! <a href="https://www.internetsociety.org/fellowships/ndss-symposium/2026-fellows/" style="text-decoration: none;"><b>url</b></a> <br/>
+**[Dec. 2025]** I received the **Internet Society NDSS Fellowship** for NDSS 2026. Thank you! (<a href="https://www.internetsociety.org/fellowships/ndss-symposium/2026-fellows/" style="text-decoration: none;"><b>url</b></a>) <br/>
 
 **[Dec. 2025]** I received a Graduate and Professional Student Senate (GPSS) Dissertation Study Support **Award**. Thank you, GPSS! <br/>
 

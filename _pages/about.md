@@ -47,6 +47,8 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 
 News
 ------
+**[Apr. 2026]** I successfully defended my PhD dissertation. I am very grateful to my research advisor and my committee members for their support. Huge thanks to my collaborators, friends and family.<br/>
+
 **[Feb. 2026]** Our **poster**, based on our newly accepted NDSS paper, was accepted for presentation at NDSS 2026 (<a href="https://www.ndss-symposium.org/wp-content/uploads/ndss26-poster-57.pdf" style="text-decoration: none;"><b>PDF</b></a>). <br/>
 
 **[Dec. 2025]** I received the **Internet Society NDSS Fellowship** for NDSS 2026. Thank you! (<a href="https://www.internetsociety.org/fellowships/ndss-symposium/2026-fellows/" style="text-decoration: none;"><b>Link</b></a>) <br/>

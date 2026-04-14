@@ -47,6 +47,9 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 
 News
 ------
+
+<div style="height: 400px; overflow-y: auto; padding-right: 15px;">
+  
 **[Apr. 2026]** I have been invited to serve as a **TPC member** for IEEE IRI 2026.<br/>
 
 **[Apr. 2026]** I successfully **defended my PhD dissertation**. I am very grateful to my research advisor and my committee members for their support. Huge thanks to my collaborators, friends and family.<br/>
@@ -88,3 +91,5 @@ News
 **[Mar. 2024]** Our **poster** on the security of Machine Learning models, in collaboration with NSA, has been accepted to the CAE symposium. I presented the poster in Kentucky<br/>
 
 **[Dec. 2023]** Our **paper**, "DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection," is accepted at ACSAC 2023 <br/>
+
+</div>

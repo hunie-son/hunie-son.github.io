@@ -17,11 +17,17 @@ I earned a Ph.D. in Computer Engineering at Iowa State University, advised by Dr
 </div>
 
 My research focuses on identifying security vulnerabilities in modern computing systems and emerging computing platforms. I utilize side-channel analysis, system-level profiling, artificial intelligence (AI) driven mitigations, cryptographic methods, and trusted execution environment (TEE) integrated designs to strengthen privacy and trust guarantees in real-world applications. These approaches span microarchitectures (Intel, AMD, and ARM) and immersive platforms (AR/VR headsets), translating vulnerability discovery into deployable defenses. In doing so, my work enhances our understanding of security issues in hardware systems and enables scalable, AI-based defenses. <br/>
-
+<!--
 **Research focus**
 <br/> &emsp;• Hardware security, microarchitectural side channel attacks and AI-driven mitigations
 <br/> &emsp;• Applied cryptographic systems, including fully homomorphic encryption (FHE)
 <br/> &emsp;• Machine learning security
+-->
+**Research Focus:**
+* **Hardware & System Security:** Microarchitectural side-channel attacks and AI-driven mitigations.
+* **Confidential Computing:** Trusted Execution Environments (TEE), including Intel TDX and SGX.
+* **Emerging Platforms Security:** Privacy threats and security mechanisms in immersive environments (AR/VR/XR).
+* **Applied Cryptography:** Fully homomorphic encryption (FHE) acceleration and machine learning security.
 
 My work has been recognized by AMD through a security bulletin (<a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD-SB-7024</b></a>) and by Meta through a bounty award, and it has appeared at top security conferences, including ACSAC, ASPLOS, and NDSS.<br/><br/>
 
@@ -40,15 +46,17 @@ I leverage cutting-edge AI and system-level techniques to design scalable securi
 Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrastructure Strategy and Planning Team at South Korea’s South Korea’s National Information Society Agency (<a href="https://eng.nia.or.kr/site/nia_eng/main.do" style="text-decoration: none;"><b>NIA</b></a>).
 -->
 
-<!-- News
-======
--->
-<br/><br/>
 
+
+<br/><br/>
+<!-- 
 News
 ------
-
 <div style="height: 400px; overflow-y: auto; padding-right: 15px;" markdown="1">
+-->
+## News
+
+<div style="height: 400px; overflow-y: auto; padding-right: 15px; border-left: 3px solid #eee; padding-left: 15px;" markdown="1">
   
 **[Apr. 2026]** I have been invited to serve on the **Technical Program Committee** for **IEEE IRI 2026**.<br/>
 

@@ -26,8 +26,7 @@ My research focuses on identifying security vulnerabilities in modern computing 
 **Research Focus:**
 * **Hardware & System Security:** Microarchitectural side-channel attacks and AI-driven mitigations.
 * **Confidential Computing:** Trusted Execution Environments (TEE), including Intel TDX and SGX.
-* **Emerging Platforms Security:** Privacy threats and security mechanisms in immersive environments (AR/VR/XR).
-* **Applied Cryptography:** Fully homomorphic encryption (FHE) acceleration and machine learning security.
+* **Applied Cryptography:** Fully homomorphic encryption (FHE) acceleration.
 
 My work has been recognized by AMD through a security bulletin (<a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD-SB-7024</b></a>) and by Meta through a bounty award, and it has appeared at top security conferences, including ACSAC, ASPLOS, and NDSS.<br/><br/>
 
@@ -46,16 +45,15 @@ I leverage cutting-edge AI and system-level techniques to design scalable securi
 Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrastructure Strategy and Planning Team at South Korea’s South Korea’s National Information Society Agency (<a href="https://eng.nia.or.kr/site/nia_eng/main.do" style="text-decoration: none;"><b>NIA</b></a>).
 -->
 
+<!-- 
+<div style="height: 400px; overflow-y: auto; padding-right: 15px;" markdown="1">
+-->
 
 
 <br/><br/>
-<!-- 
+
 News
 ------
-<div style="height: 400px; overflow-y: auto; padding-right: 15px;" markdown="1">
--->
-## News
-
 <div style="height: 400px; overflow-y: auto; padding-right: 15px; border-left: 3px solid #eee; padding-left: 15px;" markdown="1">
   
 **[Apr. 2026]** I have been invited to serve on the **Technical Program Committee** for **IEEE IRI 2026**.<br/>

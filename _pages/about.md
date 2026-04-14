@@ -48,7 +48,7 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 News
 ------
 
-<div style="height: 400px; overflow-y: auto; padding-right: 15px;">
+<div style="height: 400px; overflow-y: auto; padding-right: 15px;" markdown="1">
   
 **[Apr. 2026]** I have been invited to serve as a **TPC member** for IEEE IRI 2026.<br/>
 

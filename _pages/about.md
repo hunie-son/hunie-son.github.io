@@ -50,11 +50,11 @@ News
 
 <div style="height: 400px; overflow-y: auto; padding-right: 15px;" markdown="1">
   
-**[Apr. 2026]** I have been invited to serve as a **TPC member** for IEEE IRI 2026.<br/>
+**[Apr. 2026]** I have been invited to serve as a **TPC member** for **IEEE IRI 2026**.<br/>
 
 **[Apr. 2026]** I successfully **defended my PhD dissertation**. I am very grateful to my research advisor and my committee members for their support. Huge thanks to my collaborators, friends and family.<br/>
 
-**[Mar. 2026]** I have been invited to serve as a **PC member** for Asia CCS 2027.<br/>
+**[Mar. 2026]** I have been invited to serve as a **PC member** for **Asia CCS 2027**.<br/>
 
 **[Feb. 2026]** Our **poster**, based on our newly accepted NDSS paper, was accepted for presentation at NDSS 2026 (<a href="https://www.ndss-symposium.org/wp-content/uploads/ndss26-poster-57.pdf" style="text-decoration: none;"><b>PDF</b></a>). <br/>
 

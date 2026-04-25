@@ -34,7 +34,7 @@ My work has been recognized by AMD through a security bulletin (<a href="https:/
 
 <div style="background-color: #f8f9fa; border-left: 4px solid #f26522; padding: 15px; border-radius: 5px; margin: 20px 0;">
   <b>💡 Join My Research!</b><br/>
-  I am always excited to work with motivated Mercer students and am actively looking for students who are passionate about research! <br/> If you are interested in exploring <b>Hardware/System Security, AR/VR Security,</b> or <b>Applied Cryptography</b>, please feel free to reach out. <br/> Whether you want to gain hands-on research experience or simply chat about these exciting topics, my door is always open. Drop me an email!
+  I am always excited to work with motivated Mercer students and am actively looking for students who are passionate about research! If you are interested in exploring <b>Hardware/System Security, AR/VR Security,</b> or <b>Applied Cryptography</b>, please feel free to reach out. <br/> Whether you want to gain hands-on research experience or simply chat about these exciting topics, my door is always open. Drop me an email!
 </div>
 
 <!--

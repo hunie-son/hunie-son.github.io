@@ -31,12 +31,6 @@ My research focuses on identifying security vulnerabilities in modern computing 
 My work has been recognized by AMD through a security bulletin (<a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD-SB-7024</b></a>) and by Meta through a bounty award, and it has appeared at top security conferences, including ACSAC, ASPLOS, and NDSS.<br/><br/>
 
 
-<div style="background-color: #f8f9fa; border-left: 4px solid #f26522; padding: 15px; border-radius: 5px; margin: 20px 0;">
-  <b>💡 Join My Research!</b><br/><br/>
-  I am always excited to work with motivated Mercer students and am actively looking for students who are passionate about research!<br/><br/>
-  If you are interested in exploring <b>Hardware/System Security, AR/VR Security,</b> or <b>Applied Cryptography</b>, please feel free to reach out.<br/><br/>
-  Whether you want to gain hands-on research experience or simply chat about these exciting topics, my door is always open. Drop me an email!
-</div>
 
 <div style="background-color: #f8f9fa; border-left: 4px solid #f26522; padding: 15px; border-radius: 5px; margin: 20px 0;">
   <b>💡 Join My Research!</b><br/>

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I earned a Ph.D. in Computer Engineering at Iowa State University, advised by Dr. Berk Gulmezoglu in the  <a href="https://www.ece.iastate.edu/bgulmez/" style="text-decoration: none;"><b>MAIS Lab</b></a>, and I am currently a research intern at the Seagate Research Group’s Data Trust Team.<br/>
+I am an incoming Assistant Professor of Computer Engineering at Mercer University. I earned my Ph.D. in Computer Engineering from Iowa State University, advised by Dr. Berk Gulmezoglu. Prior to joining Mercer, I worked in the Data Trust Team at Seagate Research Group.<br/>
 
 <div style="text-align:center;">
   <img src="../images/Intro/IntroImage_v3.png"
@@ -29,6 +29,12 @@ My research focuses on identifying security vulnerabilities in modern computing 
 * **Applied Cryptography:** Fully homomorphic encryption (FHE) acceleration.
 
 My work has been recognized by AMD through a security bulletin (<a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7024.html" style="text-decoration: none;"><b>AMD-SB-7024</b></a>) and by Meta through a bounty award, and it has appeared at top security conferences, including ACSAC, ASPLOS, and NDSS.<br/><br/>
+
+
+<div style="background-color: #f8f9fa; border-left: 4px solid #f26522; padding: 15px; border-radius: 5px; margin: 20px 0;">
+  <b>🎓 To Mercer Students:</b><br/>
+  I am always excited to work with motivated students! If you are interested in exploring <b>Hardware/System Security, AR/VR Security,</b> or <b>Applied Cryptography</b>, please feel free to reach out. Whether you want to gain hands-on research experience or simply chat about these exciting topics, my door is always open. Drop me an email!
+</div>
 
 <!--
 <div style="text-align:center;">

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professor of Computer Engineering at Mercer University. I hold a Ph.D. in Computer Engineering from Iowa State University, advised by Dr. Berk Gulmezoglu. Prior to joining Mercer, I worked on the Data Trust Team at Seagate Research Group.<br/>
+I am an incoming Assistant Professor at Mercer University. I hold a Ph.D. in Computer Engineering from Iowa State University, advised by Dr. Berk Gulmezoglu. Prior to joining Mercer, I worked on the Data Trust Team at Seagate Research Group.<br/>
 
 <div style="text-align:center;">
   <img src="../images/Intro/IntroImage_v3.png"
@@ -16,7 +16,7 @@ I am an incoming Assistant Professor of Computer Engineering at Mercer Universit
        style="display:inline-block;">
 </div>
 
-My research focuses on identifying security vulnerabilities in modern computing systems and emerging computing platforms. I utilize side-channel analysis, system-level profiling, artificial intelligence (AI) driven mitigations, cryptographic methods, and trusted execution environment (TEE) integrated designs to strengthen privacy and trust guarantees in real-world applications. These approaches span microarchitectures (Intel, AMD, and ARM) and immersive platforms (AR/VR headsets), translating vulnerability discovery into deployable defenses. In doing so, my work enhances our understanding of security issues in hardware systems and enables scalable, AI-based defenses. <br/>
+My research focuses on identifying security vulnerabilities in modern computing systems and emerging computing platforms. I utilize side-channel analysis, system-level profiling, artificial intelligence (AI) driven mitigations, cryptographic methods, and trusted execution environment (TEE) integrated designs to strengthen privacy in real-world applications. These approaches span microarchitectures (Intel, AMD, and ARM) and immersive platforms (AR/VR headsets), translating vulnerability discovery into deployable defenses. In doing so, my work enhances our understanding of security issues in hardware systems and enables scalable, AI-based defenses. <br/>
 <!--
 **Research focus**
 <br/> &emsp;• Hardware security, microarchitectural side channel attacks and AI-driven mitigations

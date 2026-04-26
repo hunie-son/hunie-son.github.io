@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professor of Computer Engineering at Mercer University. I earned my Ph.D. in Computer Engineering from Iowa State University, advised by Dr. Berk Gulmezoglu. Prior to joining Mercer, I worked in the Data Trust Team at Seagate Research Group.<br/>
+I am an incoming Assistant Professor of Computer Engineering at Mercer University. I earned my Ph.D. in Computer Engineering from Iowa State University, advised by Dr. Berk Gulmezoglu. Prior to joining Mercer, I worked on the Data Trust Team at Seagate Research Group.<br/>
 
 <div style="text-align:center;">
   <img src="../images/Intro/IntroImage_v3.png"

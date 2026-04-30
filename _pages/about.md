@@ -69,7 +69,7 @@ News
 
 **[Apr. 2026]** I successfully **defended my PhD dissertation**. I am very grateful to my research advisor and my committee members for their support. Huge thanks to my collaborators, friends and family.<br/>
 
-**[Mar. 2026]** I have been invited to serve on the **Technical Program Committee** of **Asia CCS 2027**.<br/>
+**[Mar. 2026]** I have been invited to serve on the **Program Committee** of **ACM Asia CCS 2027**.<br/>
 
 **[Mar. 2026]** I have been invited to serve as a **Reviewer** for **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)**.<br/>
 

@@ -63,6 +63,8 @@ News
 ------
 <div style="height: 400px; overflow-y: auto; padding-right: 15px; border-left: 3px solid #eee; padding-left: 15px;" markdown="1">
 
+**[Jun. 2026]** I have been invited to give an **invited talk** at Seagate Research Group (SRG) OPS on “Privacy-Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Environments."<br/>
+
 **[Apr. 2026]** I have been invited to serve as a **Reviewer** for **IEEE Transactions on Dependable and Secure Computing (TDSC)**.<br/>
 
 **[Apr. 2026]** I have been invited to serve on the **Technical Program Committee** of **IEEE IRI 2026**.<br/>

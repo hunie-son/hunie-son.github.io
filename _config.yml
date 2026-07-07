@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "Seonghun Son"
 title_separator          : "-"
 name                     : &name "Seonghun Son"
-description              : &description "personal description"
+description              : &description "Assistant Professor of Computer Engineering at Mercer University."
 url                      : https://hunie-son.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hunie-son/hunie-son.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   name             : "Seonghun Son"
   pronouns         : # example: "she/her"  
   bio              : "ɪғ ʏᴏᴜ ᴅᴏ ᴡʜᴀᴛ ʏᴏᴜ ʟᴏᴠᴇ,<br/>ʏᴏᴜ'ʟʟ ɴᴇᴠᴇʀ ᴡᴏʀᴋ ᴀ ᴅᴀʏ ɪɴ ʏᴏᴜʀ ʟɪғᴇ."
-  location         : "Ames, IA"
+  location         : "Macon, GA"
   #employer         : "Red Brick University"
   uri              : # URL
   email            : "seonghunie@gmail.com" 

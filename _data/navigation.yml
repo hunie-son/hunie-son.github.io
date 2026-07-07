@@ -23,7 +23,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
   
-  - title: "SoNAR Lab"
+  - title: "SoNIC Lab"
     url: /lab/
     
   - title: "CV"

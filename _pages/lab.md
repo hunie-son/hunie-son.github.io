@@ -5,9 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## SoNAR Lab
-
-Security-Oriented Next-generation Computer Architecture Laboratory
+## Security-oriented Next-generation Computer Architecture (SoNAR) Laboratory 
 
 Our research focuses on hardware and system security, microarchitectural side channels, privacy-preserving computing, and privacy risks in emerging computing platforms.
 

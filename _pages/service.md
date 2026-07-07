@@ -1,6 +1,6 @@
 ---
 title: "Service"
-permalink: /lab/
+permalink: /service/
 layout: single
 author_profile: true
 ---

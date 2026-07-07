@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Iowa State University Courses 
+Iowa State University 
 ------
 **[Spring 2025]** Guest Lecturer, *EE 2850 Problem Solving Methods and Tools for Electrical Engineering*
 

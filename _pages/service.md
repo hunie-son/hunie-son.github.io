@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Academic Services
-
 Technical Program Committee
 ---
 - 2027, ACM ASIA Conference on Computer and Communications Security (**Asia CCS**)

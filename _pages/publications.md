@@ -50,13 +50,6 @@ International Workshop on Emerging ICT, 2016 <br/>
 
 
 
-Academic Services
-------
-
-**Program Committee**: Asia CCS (2027), IEEE IRI (2026)
-
-**Paper Reviews**: IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), LNCS volume Artificial Intelligence and Security, The Network and Distributed System Security (NDSS) Symposium 2026, 29th European Symposium on Research in Computer Security (ESORICS), 28th European Symposium on Research in Computer Security (ESORICS). 
-
 
 <!-- 
 **[May. 2024]** Subreviwer, *29th European Symposium on Research in Computer Security* (**ESORICS**)

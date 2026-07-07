@@ -23,11 +23,14 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
   
-  - title: "SoNIC Lab"
-    url: /lab/
-    
-  - title: "CV"
-    url: /cv/
+  #- title: "SoNIC Lab"
+  #  url: /lab/
+  
+  - title: "Service"
+    url: /service/  
+  
+  #- title: "CV"
+  #  url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/

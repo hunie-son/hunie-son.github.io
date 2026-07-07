@@ -10,7 +10,7 @@ redirect_from:
 
 Invited Talks
 ------
-- Oct. 2025, Seagate AI Summit *“Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Enclaves”* <br/> 
+- [Oct. 2025], Seagate AI Summit *“Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Enclaves”* <br/> 
 - Oct. 2025, Iowa State University EE5900 seminar, *“Hardware Security and CyMath: How to effectively shine your presentation”* <br/> 
 - Aug. 2024, Kyungpook National University, Daegu, South Korea, *"Application of Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems,”* <br/>
 

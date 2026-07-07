@@ -10,22 +10,22 @@ redirect_from:
 
 Invited Talks
 ------
-- [Oct. 2025], Seagate AI Summit *“Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Enclaves”* <br/> 
-- Oct. 2025, Iowa State University EE5900 seminar, *“Hardware Security and CyMath: How to effectively shine your presentation”* <br/> 
-- Aug. 2024, Kyungpook National University, Daegu, South Korea, *"Application of Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems,”* <br/>
+- [Oct. 2025] **Seagate AI Summit** *“Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Enclaves”* <br/> 
+- [Oct. 2025] **Iowa State University EE5900 seminar**, *“Hardware Security and CyMath: How to effectively shine your presentation”* <br> 
+- [Aug. 2024] **Kyungpook National University**, Daegu, South Korea, *"Application of Microarchitectural Security and Machine Learning Security for Reliable Autonomous Driving Systems,”* <br/>
 
 Conference & Workshop Talks
 ------
-- Feb. 2026, Conference & Poster, Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA, *“Side-channel Inference of User Activities in AR/VR Using GPU Profiling”* <br>
-- Apr. 2025, Conference & Poster, ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Rotterdam, Netherlands, *“SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts”* <br>
-- Nov. 2025, Poster, 9th Midwest Security Workshop (MSW 9), Purdue University, West Lafayette, IN, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”* <br>
+- [Feb. 2026] Conference & Poster, Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA, *“Side-channel Inference of User Activities in AR/VR Using GPU Profiling”* <br>
+- [Apr. 2025] Conference & Poster, ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Rotterdam, Netherlands, *“SMaCk: Efficient Instruction Cache Attacks via Self-Modifying Code Conflicts”* <br>
+- [Nov. 2025] Poster, 9th Midwest Security Workshop (MSW 9), Purdue University, West Lafayette, IN, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”* <br>
 <span style="color: red;">**Best Poster Award**</span> <br>
-- Oct. 2025, Poster, National Cybersecurity Education Colloquium (NCEC), St.Louis, MO, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”* <br>
-- Apr. 2024, Poster, CAE in Cybersecurity Community Symposium, Louisville, KY, USA, *“Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security"* <br>
-- Dec. 2023, Conference, Proceedings of the 39th Annual Computer Security Applications Conference (ACSAC), Austin, TX, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”* <br>
-- Jan. 2017, Workshop, International Exploration of Engineering Education and CDP, Hong Kong University of Science and Technology (HKUST), Hong Kong, *"Vehicle Crash Avoidance Systems based on Rear Lamp Detection"* <br>
+- [Oct. 2025] Poster, National Cybersecurity Education Colloquium (NCEC), St.Louis, MO, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”* <br>
+- [Apr. 2024] Poster, CAE in Cybersecurity Community Symposium, Louisville, KY, USA, *“Exploring Intrinsic Dimension Estimation for Enhanced Machine Learning Security"* <br>
+- [Dec. 2023] Conference, Proceedings of the 39th Annual Computer Security Applications Conference (ACSAC), Austin, TX, USA, *“DefWeb: Defending User Privacy against Cache-based Website Fingerprinting Attacks with Intelligent Noise Injection”* <br>
+- [Jan. 2017] Workshop, International Exploration of Engineering Education and CDP, Hong Kong University of Science and Technology (HKUST), Hong Kong, *"Vehicle Crash Avoidance Systems based on Rear Lamp Detection"* <br>
 <span style="color: red;">**University President Award**</span> <br>
-- Oct. 2016, Workshop, International Workshop on Emerging ICT, Sendai, Japan, *"Vehicle Crash Avoidance Systems based on Rear Lamp Detection"* <br>
+- [Oct. 2016] Workshop, International Workshop on Emerging ICT, Sendai, Japan, *"Vehicle Crash Avoidance Systems based on Rear Lamp Detection"* <br>
 
 <!-- 
 Presentations & Talks

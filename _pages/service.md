@@ -21,11 +21,11 @@ Journal and External Reviewer
 - 2023, 28th European Symposium on Research in Computer Security (**ESORICS**)
 
 ## Community Service
-- 2024, Youth Cyber Summit, Iowa Cyber Hub
-- 2024, 4H Outreach, Purdue University
-- 2021, 2022, 2023, 2024, CyMath, Iowa State University
-- 2017, World Friend ICT Volunteer, Can Tho University of Technology, Vietnam
-- 2016, 2016, 2017, Educational Service, Hamchang Middle School, Chenogdo Area, Myeongdeok Elementary School, South Korea
-- 2012, Korean Student Ambassador, Korean American Friendship Circle, Team 19
+- 2024, Youth Cyber Summit (Iowa Cyber Hub, Iowa State University)
+- 2024, 4H Outreach (Purdue University)
+- 2021, 2022, 2023, 2024, CyMath (Iowa State University)
+- 2017, World Friend ICT Volunteer (Can Tho University of Technology, Vietnam)
+- 2016, 2016, 2017, Educational Service (Hamchang Middle School, Chenogdo Area, Myeongdeok Elementary School, South Korea)
+- 2012, Korean Student Ambassador (Korean American Friendship Circle, South Korea)
 
 

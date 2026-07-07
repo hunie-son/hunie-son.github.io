@@ -9,7 +9,7 @@ redirect_from:
 
 Mercer University 
 ------
-**ECE 425/525**, Intro to Computer Architecture </br>
+**ECE 425/525**, Intro to Computer Architecture <br>
 **ECE 323**, Microcomputer Fundamentals
 
 Iowa State University 

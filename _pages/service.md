@@ -8,6 +8,7 @@ author_profile: true
 Technical Program Committee
 ---
 - 2027, ACM ASIA Conference on Computer and Communications Security (**Asia CCS**)
+- 2026, ACM Conference on Computer and Communications Security, Posters (**CCS**)
 - 2026, IEEE Information Reuse and Integration for Data Science (**IEEE IRI**)
   
 Journal and External Reviewer

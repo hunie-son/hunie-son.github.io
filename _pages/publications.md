@@ -10,6 +10,10 @@ redirect_from:
 
 Selected Publications
 ------
+***User Privacy Attacks through Self-Modifying Code Conflicts***<br/>
+**Seonghun Son**, Daniel Moghimi, Berk Gulmezoglu<br/>
+ACM Transactions on Architecture and Code Optimization (**TACO**)<br/>
+
 ***Side-channel Inference of User Activities in AR/VR Using GPU Profiling***<br/>
 **Seonghun Son**, Chandrika Mukherjee, Reham Mohamed Aburas, Berk Gulmezoglu, Z. Berkay Celik<br/>
 Network and Distributed System Security Symposium (**NDSS**) <br/>

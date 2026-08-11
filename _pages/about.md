@@ -65,7 +65,7 @@ News
 **[Aug. 2026]** I have been invited to serve on the **Technical Program Committee** of Network and Distributed
 System Security **(NDSS)** Symposium 2027. <br/>
   
-**[Aug. 2026]** Our research **paper**. "User Privacy Attacks through Self-Modifying Code Conflicts” got accepted at ACM TACO.  <br/>
+**[Aug. 2026]** Our research **paper**. "User Privacy Attacks through Self-Modifying Code Conflicts” got accepted at **ACM TACO**.  <br/>
   
 **[Aug. 2026]** I have been invited to serve on the **Technical Program Committee** of Hardware and Architectural Support for Security and Privacy **(HASP)** 2026 in conjunction with MICRO 2026. <br/>
 

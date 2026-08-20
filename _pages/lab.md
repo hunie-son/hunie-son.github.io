@@ -75,28 +75,53 @@ Our research focuses on understanding and mitigating security and privacy risks 
 
   <div class="sonic-student">
     <img src="/images/lab/student1.jpg" alt="Student Name">
-    <div class="sonic-student-name">Student Name</div>
-    <div class="sonic-student-role">Undergraduate Researcher</div>
+    <div class="sonic-student-name">Mahit Alaparthi</div>
     <div class="sonic-student-interest">
       <strong>Research Interests:</strong><br>
-      AI & XR Security
+      XR Security
     </div>
   </div>
 
   <div class="sonic-student">
     <img src="/images/lab/student2.jpg" alt="Student Name">
-    <div class="sonic-student-name">Student Name</div>
-    <div class="sonic-student-role">Undergraduate Researcher</div>
+    <div class="sonic-student-name">Kusum Neupane</div>
     <div class="sonic-student-interest">
       <strong>Research Interests:</strong><br>
-      Digital Twin Security
+      XR Security
+    </div>
+  </div>
+  
+  <div class="sonic-student">
+    <img src="/images/lab/student3.jpg" alt="Student Name">
+    <div class="sonic-student-name">Daniel Soto</div>
+    <div class="sonic-student-interest">
+      <strong>Research Interests:</strong><br>
+      XR Security
+    </div>
+  </div>
+  
+  <div class="sonic-student">
+    <img src="/images/lab/student3.jpg" alt="Student Name">
+    <div class="sonic-student-name">Gavin Salebu</div>
+    <div class="sonic-student-interest">
+      <strong>Research Interests:</strong><br>
+      Hardware & Microarchitectural Security
+    </div>
+  </div>
+
+  
+  <div class="sonic-student">
+    <img src="/images/lab/student3.jpg" alt="Student Name">
+    <div class="sonic-student-name">Naila Hernandex Medina</div>
+    <div class="sonic-student-interest">
+      <strong>Research Interests:</strong><br>
+      Hardware & Microarchitectural Security
     </div>
   </div>
 
   <div class="sonic-student">
     <img src="/images/lab/student3.jpg" alt="Student Name">
-    <div class="sonic-student-name">Student Name</div>
-    <div class="sonic-student-role">Undergraduate Researcher</div>
+    <div class="sonic-student-name">Keller Wilson</div>
     <div class="sonic-student-interest">
       <strong>Research Interests:</strong><br>
       Hardware & Microarchitectural Security
@@ -110,9 +135,14 @@ Our research focuses on understanding and mitigating security and privacy risks 
 
 <div class="sonic-collaborators">
 
-- **Debopriya Roy Dipta** — University of Akron
-- **Berk Gulmezoglu** — Iowa State University
-
+- **Dr. Berk Gulmezoglu** — Iowa State University
+- **Dr. Debopriya Roy Dipta** — University of Akron
+- **Dr. Yicheng Zhang** — George Mason University
+- **Daniel Chung** — Wright State University
+- **Chandrika Mukherjee** — Purdue University
+- **Dr. Berkay Celik** — Purdue University
+- **Dr. Reham Mohamed Aburas** - American University of Sharjah
+- **Dr. Hannah Davais** — Seagate Technology
 </div>
 
 

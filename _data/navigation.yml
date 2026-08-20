@@ -23,8 +23,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
   
-  #- title: "SoNIC Lab"
-  #  url: /lab/
+  - title: "SoNIC Lab"
+    url: /lab/
   
   - title: "Service"
     url: /service/  

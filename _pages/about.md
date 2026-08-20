@@ -62,6 +62,9 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 News
 ------
 <div style="height: 400px; overflow-y: auto; padding-right: 15px; border-left: 3px solid #eee; padding-left: 15px;" markdown="1">
+
+**[Aug. 2026]** I have been invited to the **2026 NSF SaTC Aspiring PIs Workshop**.<br/>
+
 **[Aug. 2026]** I have been invited to serve on the **Technical Program Committee** of Network and Distributed
 System Security **(NDSS)** Symposium 2027. <br/>
   

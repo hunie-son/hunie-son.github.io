@@ -53,14 +53,14 @@ author_profile: true
 
 Our research focuses on understanding and mitigating security and privacy risks in modern computing systems and emerging intelligent computing platforms. We are particularly interested in hardware and system security, microarchitectural side channels, privacy-preserving computing, and security and privacy in XR, AI-enabled devices, and cyber-physical systems.
 
-
+<!--
 ## Research Areas
 
 - **Hardware & System Security** — Microarchitectural side channels, hardware-assisted attacks and defenses, and system-level security.
 - **Confidential & Privacy-Preserving Computing** — Trusted execution environments (TEEs), secure computation, and privacy-preserving system design.
 - **XR & AI Security** — Security and privacy of AR/VR systems, AI smart glasses, wearable devices, and emerging intelligent platforms.
 - **Cyber-Physical & Digital Twin Security** — Security and privacy risks in digital twins, industrial control systems, and cyber-physical environments.
-
+-->
 
 ## Students
 

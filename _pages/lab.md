@@ -37,6 +37,15 @@ author_profile: true
   font-size: 0.88rem;
   line-height: 1.4;
 }
+
+.sonic-collaborators {
+  line-height: 1.55;
+  font-size: 0.95rem;
+}
+
+.sonic-collaborators div {
+  margin-bottom: 0.2rem;
+}
 </style>
 
 
@@ -116,15 +125,17 @@ Our research focuses on understanding and mitigating security and privacy risks 
 
 ## External Collaborators
 
-- **Dr. Berk Gulmezoglu** — Iowa State University
-- **Dr. Debopriya Roy Dipta** — University of Akron
-- **Dr. Yicheng Zhang** — George Mason University
-- **Daniel Chung** — Wright State University
-- **Chandrika Mukherjee** — Purdue University
-- **Dr. Berkay Celik** — Purdue University
-- **Dr. Reham Mohamed Aburas** — American University of Sharjah
-- **Dr. Hannah Davis** — Seagate Technology
-- **Dr. Taeho Jung** — University of Notre Dame
+<div class="sonic-collaborators">
+  <div><strong>Dr. Berk Gulmezoglu</strong> — Iowa State University</div>
+  <div><strong>Dr. Debopriya Roy Dipta</strong> — University of Akron</div>
+  <div><strong>Dr. Yicheng Zhang</strong> — George Mason University</div>
+  <div><strong>Daniel Chung</strong> — Wright State University</div>
+  <div><strong>Chandrika Mukherjee</strong> — Purdue University</div>
+  <div><strong>Dr. Berkay Celik</strong> — Purdue University</div>
+  <div><strong>Dr. Reham Mohamed Aburas</strong> — American University of Sharjah</div>
+  <div><strong>Dr. Hannah Davis</strong> — Seagate Technology</div>
+  <div><strong>Dr. Taeho Jung</strong> — University of Notre Dame</div>
+</div>
 
 
 ## Join Us

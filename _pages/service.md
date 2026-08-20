@@ -9,6 +9,7 @@ Technical Program Committee
 ---
 - 2027, Network and Distributed System Security Symposium (**NDSS**)
 - 2027, ACM Asia Conference on Computer and Communications Security (**Asia CCS**)
+- 2026, Hardware and Architectural Support for Security and Privacy (**HASP**) in conjunction with MICRO.
 - 2026, ACM Conference on Computer and Communications Security, Posters (**CCS**)
 - 2026, IEEE Information Reuse and Integration for Data Science (**IEEE IRI**)
   

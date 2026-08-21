@@ -112,7 +112,7 @@ Our research focuses on understanding and mitigating security and privacy risks 
   </div>
 
   <div class="sonic-student">
-    <img src="/images/lab/student6.jpg" alt="Keller Wilson">
+    <img src="/images/lab/student6.JPG" alt="Keller Wilson">
     <div class="sonic-student-name">Keller Wilson</div>
     <div class="sonic-student-interest">
       <strong>Research Interests:</strong><br>

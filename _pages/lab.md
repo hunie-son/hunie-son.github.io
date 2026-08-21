@@ -76,7 +76,7 @@ Our research focuses on understanding and mitigating security and privacy risks 
   </div>
 
   <div class="sonic-student">
-    <img src="/images/lab/student2.jpg" alt="Kusum Neupane">
+    <img src="/images/lab/student2.jpeg" alt="Kusum Neupane">
     <div class="sonic-student-name">Kusum Neupane</div>
     <div class="sonic-student-interest">
       <strong>Research Interests:</strong><br>

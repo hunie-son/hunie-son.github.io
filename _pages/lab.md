@@ -85,7 +85,7 @@ Our research focuses on understanding and mitigating security and privacy risks 
   </div>
 
   <div class="sonic-student">
-    <img src="/images/lab/student3.jpg" alt="Daniel Soto">
+    <img src="/images/lab/student3.png" alt="Daniel Soto">
     <div class="sonic-student-name">Daniel Soto</div>
     <div class="sonic-student-interest">
       <strong>Research Interests:</strong><br>

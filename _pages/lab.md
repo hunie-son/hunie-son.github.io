@@ -51,7 +51,7 @@ author_profile: true
 
 **Security-oriented Next-generation Intelligent Computing (SoNIC) Laboratory** at Mercer University conducts research at the intersection of computer architecture, systems, and security.
 
-Our research focuses on understanding and mitigating security and privacy risks in modern computing systems and emerging intelligent computing platforms. We are particularly interested in hardware and system security, microarchitectural side channels, privacy-preserving computing, and security and privacy in XR, AI-enabled devices, and cyber-physical systems.
+Our research focuses on understanding and mitigating security and privacy risks in modern computing systems and emerging intelligent computing platforms. We are particularly interested in hardware and system security, microarchitectural side channels, privacy-preserving computing, and security and privacy in AI-enabled devices.
 
 <!--
 ## Research Areas
@@ -67,7 +67,8 @@ Our research focuses on understanding and mitigating security and privacy risks 
 <div class="sonic-student-grid">
 
   <div class="sonic-student">
-    <img src="/images/lab/student1.jpg" alt="Mahit Alaparthi">
+    <!--<img src="/images/lab/student1.jpg" alt="Mahit Alaparthi">-->
+    <img src="/images/MercerLogo.png" alt="Mahit Alaparthi">
     <div class="sonic-student-name">Mahit Alaparthi</div>
     <div class="sonic-student-interest">
       <strong>Research Interests:</strong><br>
@@ -94,7 +95,8 @@ Our research focuses on understanding and mitigating security and privacy risks 
   </div>
 
   <div class="sonic-student">
-    <img src="/images/lab/student4.jpg" alt="Gavin Salebu">
+    <!--<img src="/images/lab/student4.jpg" alt="Gavin Salebu">-->
+    <img src="/images/MercerLogo.png" alt="Gavin Salebu">
     <div class="sonic-student-name">Gavin Salebu</div>
     <div class="sonic-student-interest">
       <strong>Research Interests:</strong><br>
@@ -103,7 +105,8 @@ Our research focuses on understanding and mitigating security and privacy risks 
   </div>
 
   <div class="sonic-student">
-    <img src="/images/lab/student5.jpg" alt="Naila Hernandex Medina">
+    <!--<img src="/images/lab/student5.jpg" alt="Naila Hernandez Medina">-->
+    <img src="/images/MercerLogo.png" alt="Naila Hernandez Medina">
     <div class="sonic-student-name">Naila Hernandez Medina</div>
     <div class="sonic-student-interest">
       <strong>Research Interests:</strong><br>

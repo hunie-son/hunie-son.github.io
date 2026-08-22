@@ -105,8 +105,8 @@ Our research focuses on understanding and mitigating security and privacy risks 
   </div>
 
   <div class="sonic-student">
-    <!--<img src="/images/lab/student5.jpg" alt="Naila Hernandez Medina">-->
-    <img src="/images/MercerLogo.png" alt="Naila Hernandez Medina">
+    <img src="/images/lab/student5.jpeg" alt="Naila Hernandez Medina">
+    <!--<img src="/images/MercerLogo.png" alt="Naila Hernandez Medina">-->
     <div class="sonic-student-name">Naila Hernandez Medina</div>
     <div class="sonic-student-interest">
       <strong>Research Interests:</strong><br>

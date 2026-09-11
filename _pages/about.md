@@ -63,6 +63,8 @@ News
 ------
 <div style="height: 400px; overflow-y: auto; padding-right: 15px; border-left: 3px solid #eee; padding-left: 15px;" markdown="1">
 
+**[Sep. 2026]** I have been awarded Young Scholar Development Program (YSDP) funding for **ACM CCS 2026**.<br/>
+
 **[Aug. 2026]** I have been invited to the **2026 NSF SaTC Aspiring PIs Workshop**.<br/>
 
 **[Aug. 2026]** I have been invited to serve on the **Technical Program Committee** of Network and Distributed

@@ -123,6 +123,24 @@ Our research focuses on understanding and mitigating security and privacy risks 
     </div>
   </div>
 
+  <div class="sonic-student">
+  <img src="/images/lab/student7.jpeg" alt="Jillian Marie Arnold">
+  <div class="sonic-student-name">Jillian Marie Arnold</div>
+  <div class="sonic-student-interest">
+    <strong>Research Interests:</strong><br>
+    XR Security
+  </div>
+</div>
+
+<div class="sonic-student">
+  <img src="/images/lab/student8.jpeg" alt="Shreya Kumar">
+  <div class="sonic-student-name">Shreya Kumar</div>
+  <div class="sonic-student-interest">
+    <strong>Research Interests:</strong><br>
+    XR Security
+  </div>
+</div>
+
 </div>
 
 

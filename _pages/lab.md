@@ -66,22 +66,14 @@ Our research focuses on understanding and mitigating security and privacy risks 
 
 <div class="sonic-student-grid">
 
-  <div class="sonic-student">
-    <!--<img src="/images/lab/student1.jpg" alt="Mahit Alaparthi">-->
-    <img src="/images/MercerLogo.png" alt="Mahit Alaparthi">
-    <div class="sonic-student-name">Mahit Alaparthi</div>
-    <div class="sonic-student-interest">
-      <strong>Research Interests:</strong><br>
-      XR Security
-    </div>
-  </div>
+  
 
   <div class="sonic-student">
     <img src="/images/lab/student2.jpeg" alt="Kusum Neupane">
     <div class="sonic-student-name">Kusum Neupane</div>
     <div class="sonic-student-interest">
       <strong>Research Interests:</strong><br>
-      XR Security
+      Hardware & Microarchitectural Security
     </div>
   </div>
 
@@ -91,16 +83,6 @@ Our research focuses on understanding and mitigating security and privacy risks 
     <div class="sonic-student-interest">
       <strong>Research Interests:</strong><br>
       XR Security
-    </div>
-  </div>
-
-  <div class="sonic-student">
-    <!--<img src="/images/lab/student4.jpg" alt="Gavin Salebu">-->
-    <img src="/images/MercerLogo.png" alt="Gavin Salebu">
-    <div class="sonic-student-name">Gavin Salebu</div>
-    <div class="sonic-student-interest">
-      <strong>Research Interests:</strong><br>
-      Hardware & Microarchitectural Security
     </div>
   </div>
 
@@ -141,6 +123,26 @@ Our research focuses on understanding and mitigating security and privacy risks 
   </div>
 </div>
 
+<div class="sonic-student">
+    <!--<img src="/images/lab/student1.jpg" alt="Mahit Alaparthi">-->
+    <img src="/images/MercerLogo.png" alt="Mahit Alaparthi">
+    <div class="sonic-student-name">Mahit Alaparthi</div>
+    <div class="sonic-student-interest">
+      <strong>Research Interests:</strong><br>
+      XR Security
+    </div>
+</div>
+
+<div class="sonic-student">
+    <!--<img src="/images/lab/student4.jpg" alt="Gavin Salebu">-->
+    <img src="/images/MercerLogo.png" alt="Gavin Salebu">
+    <div class="sonic-student-name">Gavin Salebu</div>
+    <div class="sonic-student-interest">
+      <strong>Research Interests:</strong><br>
+      Hardware & Microarchitectural Security
+    </div>
+</div>
+  
 </div>
 
 

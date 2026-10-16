@@ -62,7 +62,8 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 News
 ------
 <div style="height: 400px; overflow-y: auto; padding-right: 15px; border-left: 3px solid #eee; padding-left: 15px;" markdown="1">
-**[Nov. 2026]** I have been invited to give a **talk** at the 26th KOCSEA Technical Symposium on "Privacy Risks in AR/VR: Inferring User Activities through GPU Side Channels". <br/>
+  
+**[Nov. 2026]** I have been invited to give a **talk** at the 26th KOCSEA Technical Symposium on "Privacy Risks in AR/VR: Inferring User Activities through GPU Side Channels".<br/>
 
 **[Sep. 2026]** I have been awarded the Young Scholar Development Program (YSDP) **funding** for **ACM CCS 2026**.<br/>
 

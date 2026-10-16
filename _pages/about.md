@@ -62,6 +62,7 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 News
 ------
 <div style="height: 400px; overflow-y: auto; padding-right: 15px; border-left: 3px solid #eee; padding-left: 15px;" markdown="1">
+**[Nov. 2026]** I have been invited to give a **talk** at the 26th KOCSEA Technical Symposium on "Privacy Risks in AR/VR: Inferring User Activities through GPU Side Channels". <br/>
 
 **[Sep. 2026]** I have been awarded the Young Scholar Development Program (YSDP) **funding** for **ACM CCS 2026**.<br/>
 
@@ -94,7 +95,7 @@ System Security **(NDSS)** Symposium 2027. <br/>
 
 **[Dec. 2025]** I received a Graduate and Professional Student Senate (GPSS) Dissertation Study Support **Award**. Thank you, GPSS! <br/>
 
-**[Oct. 2025]** I gave a **talk** on "Privacy Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Environment" at the 4th bi-annual Seagate AI-Summit (global event). <br/>
+**[Oct. 2025]** I gave a **talk** on "Privacy-Preserving Machine Learning at the Intersection of Fully Homomorphic Encryption and Trusted Execution Environment" at the 4th bi-annual Seagate AI-Summit (global event). <br/>
 
 **[Oct. 2025]** Our work has been recognized by the department <a href="https://news.engineering.iastate.edu/2025/09/30/seonghun-son-advancing-hardware-and-systems-security/" style="text-decoration: none;"><b>News</b></a>. Thank you to the ECpE department for recognizing our work! <br/>
 

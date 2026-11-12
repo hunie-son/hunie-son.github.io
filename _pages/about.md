@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at Mercer University. I hold a Ph.D. in Computer Engineering from Iowa State University, advised by Dr. Berk Gulmezoglu. Prior to joining Mercer, I worked on the Data Trust Team at Seagate Research Group.<br/>
+I am an Assistant Professor at Mercer University. I hold a Ph.D. in Computer Engineering from Iowa State University. Before joining Mercer, I worked on the Data Trust Team at Seagate Research Group.<br/>
 
 <div style="text-align:center;">
   <img src="../images/Intro/IntroImage_v3.png"
@@ -62,6 +62,8 @@ Prior to joining Iowa State, I worked as an Assistant Manager in the ICT Infrast
 News
 ------
 <div style="height: 400px; overflow-y: auto; padding-right: 15px; border-left: 3px solid #eee; padding-left: 15px;" markdown="1">
+
+**[Nov. 2026]** I have been invited to serve as a **Poster Co-Chair** for the <a href="https://www.raid2027.org/" style="text-decoration: none;"><b>30th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2027)</b></a> in Chicago, USA.<br/>
   
 **[Nov. 2026]** I have been invited to give a **talk** at the 26th KOCSEA Technical Symposium on "Privacy Risks in AR/VR: Inferring User Activities through GPU Side Channels".<br/>
 

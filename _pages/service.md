@@ -7,7 +7,7 @@ author_profile: true
 
 Conference Organization
 ---
-- 2027, Poster Co-Chair, International Symposium on Research in Attacks, Intrusions and Defenses ([**RAID 2027**](https://www.raid2027.org/))
+- 2027, Poster Co-Chair, International Symposium on Research in Attacks, Intrusions and Defenses (**RAID 2027**)
 
 Technical Program Committee
 ---

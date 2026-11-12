@@ -63,7 +63,7 @@ News
 ------
 <div style="height: 400px; overflow-y: auto; padding-right: 15px; border-left: 3px solid #eee; padding-left: 15px;" markdown="1">
 
-**[Nov. 2026]** I have been invited to serve as a **Poster Co-Chair** for the 30th International Symposium on Research in Attacks, Intrusions and Defenses (<a href="https://www.raid2027.org/" style="text-decoration: none;"><b>RAID 2027</b></a>) in Chicago, USA.<br/>
+**[Nov. 2026]** I have been invited to serve as a **Poster Co-Chair** for the 30th International Symposium on Research in Attacks, Intrusions and Defenses (**RAID 2027**) in Chicago, USA.<br/>
   
 **[Nov. 2026]** I have been invited to give a **talk** at the 26th KOCSEA Technical Symposium on "Privacy Risks in AR/VR: Inferring User Activities through GPU Side Channels".<br/>
 
